@@ -7,7 +7,7 @@ import json, re, sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE.parent / "skills" / "voice-visual-reader" / "scripts"))
+sys.path.insert(0, str(HERE.parent / "skills" / "fourat-visual-reader" / "scripts"))
 import vvr  # noqa: E402
 
 ARMS = ["baseline", "skill", "script"]

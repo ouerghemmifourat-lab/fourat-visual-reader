@@ -4,7 +4,7 @@
 
 ## What helps most
 
-1. **A new language.** Add `skills/voice-visual-reader/references/numbers-<lang>.md` (numbers, units, dates, symbols as
+1. **A new language.** Add `skills/fourat-visual-reader/references/numbers-<lang>.md` (numbers, units, dates, symbols as
    spoken in that language), sentence templates in `scripts/vvr.py` (`T[...]`, `UNITS[...]`, `int_to_words`), and at least
    6 evaluation cases in `eval/make_cases.py` with expected answers. Say which rules are sourced and which are practice.
 2. **Evaluation cases.** Real-world shapes we do not cover yet (histograms, Gantt, Sankey, maps…), with three questions each.
@@ -15,7 +15,7 @@
 ## Rules
 
 - Keep `SKILL.md` under 500 lines; put detail in `references/`.
-- `python skills/voice-visual-reader/scripts/vvr.py selftest` must pass. The script is standard-library only.
+- `python skills/fourat-visual-reader/scripts/vvr.py selftest` must pass. The script is standard-library only.
 - Every claim in `research/` carries a URL. Mark unverified items as such.
 - Do not copy text from copyleft or unlicensed sources (see `research/STATE_OF_THE_ART.md` § 4).
 - Measured improvements only: run `eval/run_eval.py` before and after, and report both numbers.
@@ -34,7 +34,7 @@
 ### Règles
 
 - `SKILL.md` reste sous 500 lignes ; le détail va dans `references/`.
-- `python skills/voice-visual-reader/scripts/vvr.py selftest` doit passer. Le script n'utilise que la bibliothèque standard.
+- `python skills/fourat-visual-reader/scripts/vvr.py selftest` doit passer. Le script n'utilise que la bibliothèque standard.
 - Toute affirmation de `research/` porte une URL ; l'incertain est marqué.
 - Pas de copie de sources copyleft ou sans licence (voir `research/STATE_OF_THE_ART.md` § 4).
 - Amélioration mesurée seulement : `eval/run_eval.py` avant et après, les deux chiffres dans la demande.

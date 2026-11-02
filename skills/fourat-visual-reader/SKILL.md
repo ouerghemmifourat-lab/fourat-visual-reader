@@ -1,14 +1,14 @@
 ---
-name: voice-visual-reader
+name: fourat-visual-reader
 description: Turns tables, charts (bar, line, pie, scatter), flowcharts, org charts, sequence diagrams and mind maps into natural speech that is understandable by ear and ready for text-to-speech. Use whenever output will be spoken (voice agent, TTS, phone, smart speaker, screen-reader user, "read this aloud", "lis-moi ce tableau", "décris ce graphique", "explain this chart by voice"), or when writing SSML or alt text meant to be heard. Covers English and French: structure first, then the message and key figures, then detail on demand; numbers, units, dates, percentages and symbols spoken correctly per language; short sentences, pauses, no cell-by-cell dumps.
 license: MIT
 metadata:
-  author: voice-visual-reader project
+  author: Fourat Ouerghemmi
   version: "0.1.0"
   languages: "en, fr"
 ---
 
-# Voice Visual Reader
+# Fourat Visual Reader
 
 Read a table, chart or diagram **for a listener**, not a viewer. A listener hears once, at fixed speed, cannot glance back,
 and holds about four items in mind. Everything below follows from that.

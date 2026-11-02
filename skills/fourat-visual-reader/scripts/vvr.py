@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""vvr.py -- voice-visual-reader helper. Standard library only, Python 3.9+.
+"""vvr.py -- fourat-visual-reader helper. Standard library only, Python 3.9+.
 
   python vvr.py parse   INPUT [--kind table|bars|line|pie|flowchart] [--lang en|fr] [--title T]  -> IR JSON
   python vvr.py narrate IR.json [--level brief|full] [--ssml]                                    -> spoken text / SSML
