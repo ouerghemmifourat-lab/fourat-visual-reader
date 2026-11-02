@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comparatif · Fourat Visual Reader</title>
+<style>
+  :root { color-scheme: light dark; --ink: #1c2026; --mute: #6e737a; --acc: #146e64; --bg: #faf8f4; }
+  @media (prefers-color-scheme: dark) { :root { --ink: #ece9e3; --mute: #a3a8af; --acc: #5fc3b5; --bg: #15171a; } }
+  body { margin: 0; padding: 24px 16px 48px; background: var(--bg); color: var(--ink); font: 17px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 760px; margin-inline: auto; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; } h2 { font-size: 1.1rem; color: var(--acc); margin: 32px 0 8px; }
+  p.lead { color: var(--mute); margin: 0 0 24px; }
+  video, audio { width: 100%; display: block; border-radius: 8px; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; } th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid color-mix(in srgb, var(--mute) 35%, transparent); }
+  small { color: var(--mute); } a { color: var(--acc); }
+</style>
+</head>
+<body>
+<h1>Même tableau, deux lectures à voix haute</h1>
+<p class="lead">ChatGPT (bouton « Lire à voix haute ») contre Fourat Visual Reader · Same table, two read-alouds</p>
+
+<h2>Vidéo · Video (66 s)</h2>
+<video controls preload="metadata" poster="poster.png" src="chatgpt-vs-fourat.mp4"></video>
+
+<h2>Son seul · Audio only (66 s)</h2>
+<audio controls preload="metadata" src="audio-full-comparison.mp3"></audio>
+
+<h2>Le tableau · The table</h2>
+<table>
+<tr><th>Service</th><th>Lits occupés</th><th>Lits libres</th><th>Durée moyenne (jours)</th></tr>
+<tr><td>Urgences</td><td>18</td><td>4</td><td>0,8</td></tr>
+<tr><td>Cardiologie</td><td>22</td><td>2</td><td>5,4</td></tr>
+<tr><td>Gériatrie</td><td>30</td><td>1</td><td>11,2</td></tr>
+<tr><td>Pneumologie</td><td>15</td><td>6</td><td>7,1</td></tr>
+</table>
+
+<h2>Limites · Limits</h2>
+<p>Un seul tableau, des voix différentes, pas d'auditeurs testés, lecture du skill plus longue (environ 36 s contre 14 s). La lecture de ChatGPT n'a pas été transcrite : écoutez et jugez.<br>
+<small>One table, different voices, no listeners tested, the skill's reading is longer (about 36 s versus 14 s). The ChatGPT reading was not transcribed: listen and judge.</small></p>
+
+<p><a href="https://github.com/ouerghemmifourat-lab/fourat-visual-reader">← Dépôt · Repository</a></p>
+</body>
+</html>
