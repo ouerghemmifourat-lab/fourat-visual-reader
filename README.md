@@ -47,6 +47,27 @@ Measured on 34 cases (17 English, 17 French), details in [`eval/RESULTS.md`](eva
 three, numbers and units written as words in the target language, interpretation only when asked, and never a number
 that is not in the data.
 
+## Comparison with ChatGPT read-aloud
+
+One fictional French table, two readings: the ChatGPT mobile app's "Read aloud" button on the answer containing the
+table, then this skill's script with a Google Chirp 3 HD voice. 66-second video, audio only for ChatGPT (no screen
+captured), recorded on 2 November 2026.
+
+<p align="center"><a href="docs/comparison/chatgpt-vs-fourat.mp4"><img src="docs/comparison/poster.png" alt="Open the comparison video: the table on the left, the skill's spoken text on the right" width="80%"></a></p>
+
+| Service | Lits occupés | Lits libres | Durée moyenne (jours) |
+|---|---|---|---|
+| Urgences | 18 | 4 | 0,8 |
+| Cardiologie | 22 | 2 | 5,4 |
+| Gériatrie | 30 | 1 | 11,2 |
+| Pneumologie | 15 | 6 | 7,1 |
+
+What the skill's reading does on this table: it announces the shape first (four columns, four rows), gives the key
+point (most and fewest occupied beds), then reads each row, every number in words and none absent from the table.
+Limits: a single table, different voices, no listeners tested, and the skill's reading is longer (about 36 s versus
+14 s). The ChatGPT reading was not transcribed; listen and judge. The recording predates the unit-singular rule of the
+current script ("zéro virgule huit jours" is now "jour").
+
 ## Install
 
 The skill follows the open [Agent Skills](https://agentskills.io/specification) format: one folder with a `SKILL.md`.
@@ -170,6 +191,27 @@ auditeur » : l'exemple est dans la section anglaise ci-dessus. Mesuré sur 34 c
 **Annoncer → Message → Chiffres clés → Offrir → Détail à la demande.** Phrases courtes, un nombre par phrase, blocs de
 trois, nombres et unités écrits en mots dans la langue cible, interprétation seulement sur demande, et jamais un nombre
 absent des données.
+
+## Comparatif avec la lecture à voix haute de ChatGPT
+
+Un tableau fictif en français, deux lectures : le bouton « Lire à voix haute » de l'application mobile ChatGPT sur la
+réponse qui contient le tableau, puis le script de ce skill avec une voix Google Chirp 3 HD. Vidéo de 66 secondes,
+son seul pour ChatGPT (aucun écran capturé), enregistrements du 2 novembre 2026.
+
+<p align="center"><a href="docs/comparison/chatgpt-vs-fourat.mp4"><img src="docs/comparison/poster.png" alt="Ouvrir la vidéo du comparatif : le tableau à gauche, le texte parlé du skill à droite" width="80%"></a></p>
+
+| Service | Lits occupés | Lits libres | Durée moyenne (jours) |
+|---|---|---|---|
+| Urgences | 18 | 4 | 0,8 |
+| Cardiologie | 22 | 2 | 5,4 |
+| Gériatrie | 30 | 1 | 11,2 |
+| Pneumologie | 15 | 6 | 7,1 |
+
+Ce que fait la lecture du skill sur ce tableau : elle annonce d'abord la forme (quatre colonnes, quatre lignes), donne
+le point clé (le plus et le moins de lits occupés), puis lit chaque ligne, tous les nombres en toutes lettres et aucun
+absent du tableau. Limites : un seul tableau, des voix différentes, pas d'auditeurs testés, et une lecture plus longue
+(environ 36 s contre 14 s). La lecture de ChatGPT n'a pas été transcrite : écoutez et jugez. L'enregistrement précède
+la règle du singulier des unités du script actuel (« zéro virgule huit jours » se dit désormais « jour »).
 
 ## Installation
 
