@@ -62,6 +62,11 @@ captured), recorded on 2 November 2026.
 | Gériatrie | 30 | 1 | 11,2 |
 | Pneumologie | 15 | 6 | 7,1 |
 
+If the video does not play in your browser, the audio alone:
+[ChatGPT read-aloud (15 s)](docs/comparison/audio-chatgpt.mp3) ·
+[Fourat Visual Reader (36 s)](docs/comparison/audio-fourat-visual-reader.mp3) ·
+[full track with the title and closing slides (66 s)](docs/comparison/audio-full-comparison.mp3).
+
 What the skill's reading does on this table: it announces the shape first (four columns, four rows), gives the key
 point (most and fewest occupied beds), then reads each row, every number in words and none absent from the table.
 Limits: a single table, different voices, no listeners tested, and the skill's reading is longer (about 36 s versus
@@ -206,6 +211,11 @@ son seul pour ChatGPT (aucun écran capturé), enregistrements du 2 novembre 202
 | Cardiologie | 22 | 2 | 5,4 |
 | Gériatrie | 30 | 1 | 11,2 |
 | Pneumologie | 15 | 6 | 7,1 |
+
+Si la vidéo ne se lit pas dans votre navigateur, le son seul :
+[lecture ChatGPT (15 s)](docs/comparison/audio-chatgpt.mp3) ·
+[Fourat Visual Reader (36 s)](docs/comparison/audio-fourat-visual-reader.mp3) ·
+[piste complète avec les diapositives de titre et de fin (66 s)](docs/comparison/audio-full-comparison.mp3).
 
 Ce que fait la lecture du skill sur ce tableau : elle annonce d'abord la forme (quatre colonnes, quatre lignes), donne
 le point clé (le plus et le moins de lits occupés), puis lit chaque ligne, tous les nombres en toutes lettres et aucun
