@@ -1,0 +1,7 @@
+Un graphique en barres groupées par tranche d'âge, quatre tranches, deux séries : hommes et femmes, en milliers de personnes. Les femmes sont plus nombreuses, surtout à partir de soixante ans.
+
+De zéro à dix-neuf ans : hommes huit cent vingt mille ; femmes sept cent quatre-vingt-dix mille.
+De vingt à trente-neuf ans : hommes sept cent soixante mille ; femmes sept cent soixante-dix mille.
+De quarante à cinquante-neuf ans : hommes huit cents mille ; femmes huit cent trente mille.
+
+Soixante ans et plus : hommes six cent cinquante mille ; femmes huit cent dix mille. L'écart est de cent soixante mille.

@@ -1,0 +1,5 @@
+Un diagramme de séquence à quatre participants : client, site, stock et paiement ; six messages. Un client ajoute un article au panier : le site vérifie le stock, puis fait autoriser le paiement.
+
+Du client au site : ajoute au panier. Du site au stock : vérifie la disponibilité. Retour du stock au site : disponible.
+
+Du site au paiement : autorise. Retour du paiement au site : accepté. Retour du site au client : confirmation.

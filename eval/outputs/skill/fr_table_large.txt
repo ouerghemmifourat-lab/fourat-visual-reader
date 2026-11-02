@@ -1,0 +1,7 @@
+Un tableau de cinq colonnes et trente lignes, une ligne par commune : commune, département, habitants et deux autres colonnes, l'altitude en mètres et la superficie en kilomètres carrés.
+
+Aix est la commune la plus peuplée et Figeac la moins peuplée.
+
+Aix : habitants, cent quarante-cinq mille. Figeac : sept mille neuf cents. La plus haute est Gap, à mille cinquante mètres d'altitude ; la plus basse est Calais, à trois mètres. La plus étendue est Mende, quatre-vingt-dix kilomètres carrés.
+
+Vous pouvez demander les cinq communes les plus peuplées, une commune ou une colonne.

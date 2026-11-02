@@ -1,0 +1,4 @@
+This chart follows two series, A and B, from 2019 to 2024.
+Series A rises every year, from 10 in 2019 to 22 in 2024.
+Series B starts higher, at 14, but grows slowly, reaching only 17 in 2024.
+They cross in 2021: A is 16 and B is 15, so A is ahead from then on. By 2024, A is at 22 and B at 17.

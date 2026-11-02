@@ -1,0 +1,1 @@
+This process handles orders from two sources: web orders and phone orders. Both go to the same first step, validating the order. Then the payment is checked. If payment is OK, the order is fulfilled and the process is done. If not, the customer is contacted, and the order goes back to validation to be checked again.

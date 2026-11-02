@@ -1,0 +1,3 @@
+A pie chart of the household budget in five parts. Rent takes more than half.
+
+Rent: fifty-two percent. Food: twenty. Transport: twelve. Leisure: nine. Other: seven.

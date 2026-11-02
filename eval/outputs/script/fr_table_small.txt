@@ -1,0 +1,7 @@
+Un tableau de trois colonnes et quatre lignes : Ville, Population et Superficie.
+
+Toulouse a la plus grande valeur de Population ; Lille la plus petite. Toulouse, Population : zéro virgule cinq million. Lille : zéro virgule vingt-quatre million.
+
+Bordeaux : Population zéro virgule vingt-six million ; Superficie quarante-neuf kilomètres carrés. Nantes : Population zéro virgule trente-deux million ; Superficie soixante-cinq kilomètres carrés. Lille : Population zéro virgule vingt-quatre million ; Superficie trente-cinq kilomètres carrés.
+
+Toulouse : Population zéro virgule cinq million ; Superficie cent dix-huit kilomètres carrés.

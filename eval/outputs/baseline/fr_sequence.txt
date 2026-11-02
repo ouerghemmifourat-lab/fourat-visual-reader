@@ -1,0 +1,1 @@
+Voici le déroulé d'une commande en ligne. Le client ajoute un article au panier. Le site demande au stock si l'article est disponible, et le stock répond que oui. Le site demande alors une autorisation au service de paiement, qui l'accepte. Enfin, le site envoie une confirmation au client.

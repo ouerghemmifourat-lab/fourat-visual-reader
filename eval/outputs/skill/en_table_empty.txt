@@ -1,0 +1,10 @@
+A table with four columns and five rows, one row per product: price in euros, stock, and supplier. Some cells are empty.
+
+Drill is the most expensive product, and Hammer, Saw and Level are the cheaper ones.
+
+Hammer: price twelve euros fifty; stock forty; supplier Acme.
+Saw: price twenty-four euros; stock, a dash; supplier Acme.
+Drill: price eighty-nine euros ninety; stock seven; supplier, no value.
+
+Level: price fifteen euros; stock zero; supplier Bolt Co.
+Pliers: price, no value; stock twenty-two; supplier Bolt Co.

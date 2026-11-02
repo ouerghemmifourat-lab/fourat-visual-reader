@@ -1,0 +1,5 @@
+Une courbe des températures moyennes à Lyon, de janvier à décembre, un point par mois, en degrés Celsius.
+
+La température monte de l'hiver à l'été, puis redescend. Le point bas est en janvier, trois virgule cinq degrés ; le sommet est en juillet, vingt-deux virgule quatre degrés, soit environ dix-neuf degrés d'écart.
+
+Par périodes : de janvier à juillet, elle monte de trois virgule cinq à vingt-deux virgule quatre. Août reste proche, vingt-deux virgule un. De septembre à décembre, elle baisse de dix-huit à quatre virgule deux.

@@ -1,0 +1,5 @@
+A scatter plot of life expectancy in years against income in thousands of dollars, eight points, one per country. Higher income generally goes with longer life, with one clear exception: the USA.
+
+Nigeria has the lowest values: income five thousand dollars, life expectancy fifty-three years. Norway has the highest income, seventy-five thousand, with eighty-three years. Japan has the longest life, eighty-four years, at forty-two thousand. The USA has sixty-five thousand but only seventy-seven years, below France at forty-five thousand and eighty-two years.
+
+The other points, income then life expectancy: Chile, twenty-five thousand and eighty years. Mexico, twenty thousand and seventy-five. India, seven thousand and seventy.

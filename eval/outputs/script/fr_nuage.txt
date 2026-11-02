@@ -1,0 +1,5 @@
+Un tableau de trois colonnes et huit lignes : Appartement, Surface et Prix.
+
+G a la plus grande valeur de Surface ; A la plus petite. G, Surface : cent mètres carrés. A : vingt-cinq mètres carrés.
+
+Je peux lire ligne par ligne, parcourir une colonne, ou comparer deux lignes. Que souhaitez-vous ?

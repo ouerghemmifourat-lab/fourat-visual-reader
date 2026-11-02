@@ -1,0 +1,5 @@
+A table with five columns and three rows: Region, Units twenty twenty-three, Revenue twenty twenty-three, Units twenty twenty-four and Revenue twenty twenty-four. Values in thousand euros.
+
+North has the largest Units twenty twenty-three; West the smallest. North, Units twenty twenty-three: one thousand two hundred. West: four hundred.
+
+I can read it row by row, go through one column, or compare two rows. What would you like?

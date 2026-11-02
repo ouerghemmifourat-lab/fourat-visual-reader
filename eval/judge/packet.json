@@ -1,0 +1,716 @@
+[
+ {
+  "id": "en_table_small",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which city has the largest population?",
+    "a": "Paris"
+   },
+   {
+    "q": "What is the area of Marseille?",
+    "a": "241 square kilometres"
+   },
+   {
+    "q": "How many cities (rows) are there?",
+    "a": "3"
+   }
+  ],
+  "note": "",
+  "text_A": "A table with three columns and three rows, one row per city: population in millions, and area in square kilometres. Paris is the most populous, but Marseille covers the largest area.\n\nParis: population two point one million; area one hundred five square kilometres.\nLyon: zero point five million; forty-eight square kilometres.\nMarseille: zero point nine million; two hundred forty-one square kilometres.\n",
+  "text_B": "Here are three cities. Paris has a population of 2.1 million and covers 105 square kilometres. Lyon has 0.5 million people and covers 48 square kilometres. Marseille has 0.9 million people and covers 241 square kilometres.\n"
+ },
+ {
+  "id": "en_table_medium",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which product has the highest Q1 sales?",
+    "a": "Epsilon (310 k€)"
+   },
+   {
+    "q": "Which product falls every quarter from Q1 to Q4?",
+    "a": "Gamma"
+   },
+   {
+    "q": "How many products (rows) are listed?",
+    "a": "8"
+   }
+  ],
+  "note": "",
+  "text_A": "A table with five columns and eight rows, one row per product: Q1, Q2, Q3 and Q4 sales, in thousands of euros.\n\nEpsilon is the biggest seller in every quarter, and Zeta the smallest. Most products grow through the year, but Gamma falls.\n\nEpsilon: three hundred ten thousand euros in the first quarter, and three hundred thirty thousand in the fourth. Zeta: fifteen thousand in the first quarter, and twenty-two thousand in the fourth. Gamma: two hundred thousand in the first quarter, down to one hundred seventy thousand in the fourth.\n\nAsk for a product, a quarter, or a comparison for more.\n",
+  "text_B": "This table shows quarterly sales for eight products, in thousands of euros.\nAlpha: 120 in the first quarter, 135 in the second, 150 in the third, and 160 in the fourth.\nBeta: 80, 82, 79, and 85.\nGamma: 200, 190, 180, and 170.\nDelta: 45, 50, 55, and 60.\nEpsilon: 310, 300, 320, and 330.\nZeta: 15, 18, 20, and 22.\nEta: 95, 100, 105, and 110.\nTheta: 60, 58, 61, and 59.\n"
+ },
+ {
+  "id": "en_table_large",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which store has the highest revenue, and how much?",
+    "a": "S12 in Nîmes, 980 k€"
+   },
+   {
+    "q": "Which store has the fewest staff?",
+    "a": "S27 in Dax, 3"
+   },
+   {
+    "q": "How many stores (rows) are in the table?",
+    "a": "32"
+   }
+  ],
+  "note": "32 rows: the skill should not read it all",
+  "text_A": "This table lists 32 stores, with their city, staff, revenue in thousands of euros, margin, and year opened. Here are the main points.\nThe highest revenue is Nîmes, store S12, with 980 thousand euros, and it also has the most staff, 52 people. The lowest revenue is Dax, store S27, with just 41 thousand euros and 3 staff.\nMargins range from 4 percent, at Nantes and Tours, up to 18 percent, at Arles and Cahors.\nThe oldest stores are Nice and Reims, opened in 2002. The newest is Niort, opened in 2023.\nI can read out any particular store if you want.\n",
+  "text_B": "A table with six columns and thirty-two rows, one row per store: store, city, staff, and three more columns: revenue in thousands of euros, margin in percent, and year opened.\n\nNîmes stands out. It has the highest revenue and the largest staff. Dax has the lowest revenue.\n\nNîmes: revenue nine hundred eighty thousand euros; staff fifty-two. Dax: revenue forty-one thousand euros; staff three. The highest margin is eighteen percent, shared by Arles and Cahors. The lowest is four percent, shared by Nantes and Tours.\n\nI can read the top five stores by revenue, one city, or one column. Ask for what you would like.\n"
+ },
+ {
+  "id": "en_table_multiheader",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "What was the 2024 revenue in the North?",
+    "a": "560 k€"
+   },
+   {
+    "q": "Which region grew the most in revenue from 2023 to 2024?",
+    "a": "West (150 to 240, +60 %)"
+   },
+   {
+    "q": "How many regions are listed?",
+    "a": "3"
+   }
+  ],
+  "note": "two header levels flattened",
+  "text_A": "A table with five columns and three rows, one row per region: units and revenue in thousands of euros, for two years. I will read it as two tables: twenty twenty-three, then twenty twenty-four. North is the largest in both years, and West grows the most.\n\nTwenty twenty-three.\nNorth: units one thousand two hundred; revenue four hundred eighty thousand euros.\nSouth: units nine hundred; revenue three hundred fifty thousand euros.\nWest: units four hundred; revenue one hundred fifty thousand euros.\n\nTwenty twenty-four.\nNorth: units one thousand three hundred fifty; revenue five hundred sixty thousand euros.\nSouth: units eight hundred eighty; revenue three hundred forty thousand euros.\nWest: units six hundred twenty; revenue two hundred forty thousand euros.\n",
+  "text_B": "This table compares units sold and revenue by region, for 2023 and 2024. Revenue is in thousands of euros.\nNorth: in 2023, 1,200 units and 480 revenue. In 2024, 1,350 units and 560 revenue.\nSouth: in 2023, 900 units and 350 revenue. In 2024, 880 units and 340 revenue.\nWest: in 2023, 400 units and 150 revenue. In 2024, 620 units and 240 revenue.\nSo North and West grew, while South dipped slightly.\n"
+ },
+ {
+  "id": "en_table_empty",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which product has no supplier listed?",
+    "a": "Drill"
+   },
+   {
+    "q": "What is the stock of Level?",
+    "a": "0 (zero)"
+   },
+   {
+    "q": "Which product has no price?",
+    "a": "Pliers"
+   }
+  ],
+  "note": "empty cells and a dash",
+  "text_A": "A table with four columns and five rows, one row per product: price in euros, stock, and supplier. Some cells are empty.\n\nDrill is the most expensive product, and Hammer, Saw and Level are the cheaper ones.\n\nHammer: price twelve euros fifty; stock forty; supplier Acme.\nSaw: price twenty-four euros; stock, a dash; supplier Acme.\nDrill: price eighty-nine euros ninety; stock seven; supplier, no value.\n\nLevel: price fifteen euros; stock zero; supplier Bolt Co.\nPliers: price, no value; stock twenty-two; supplier Bolt Co.\n",
+  "text_B": "This table lists five products with price, stock, and supplier.\nHammer: 12 euros 50, 40 in stock, from Acme.\nSaw: 24 euros, stock not given, from Acme.\nDrill: 89 euros 90, 7 in stock, supplier not given.\nLevel: 15 euros, 0 in stock, from Bolt Co.\nPliers: price not given, 22 in stock, from Bolt Co.\n"
+ },
+ {
+  "id": "en_bars_simple",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which country has the highest sales?",
+    "a": "France (42 M€)"
+   },
+   {
+    "q": "What are Portugal's sales?",
+    "a": "9 M€"
+   },
+   {
+    "q": "Roughly what fraction of France's sales does Portugal have?",
+    "a": "about a fifth (9/42 ≈ 21 %)"
+   }
+  ],
+  "note": "",
+  "text_A": "A bar chart of sales by country in twenty twenty-four, four bars, in millions of euros. France leads, Spain is close behind, and Portugal is far lower.\n\nFrance: forty-two million. Spain: thirty-eight. Italy: twenty-five. Portugal: nine, about a fifth of France.\n",
+  "text_B": "Sales by country, 2024, in millions of euros. France leads with 42, followed by Spain with 38, Italy with 25, and Portugal with 9.\n"
+ },
+ {
+  "id": "en_bars_grouped",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which country sells more online than in stores?",
+    "a": "Spain (20 vs 18)"
+   },
+   {
+    "q": "What are France's store sales?",
+    "a": "30 M€"
+   },
+   {
+    "q": "How many series (bar groups) are there?",
+    "a": "2: online and stores"
+   }
+  ],
+  "note": "grouped bars; vvr reads it as a table",
+  "text_A": "A grouped bar chart of sales by country, three countries, two series: online and stores, in millions of euros. France sells mostly in stores. Spain is the only country where online is ahead.\n\nFrance, total forty-two: online twelve; stores thirty.\nSpain, total thirty-eight: online twenty; stores eighteen.\nItaly, total twenty-five: online ten; stores fifteen.\n",
+  "text_B": "This chart compares online and store sales, in millions of euros, for three countries.\nFrance: 12 online and 30 in stores.\nSpain: 20 online and 18 in stores.\nItaly: 10 online and 15 in stores.\nSpain is the only country where online sales are higher than store sales.\n"
+ },
+ {
+  "id": "en_bars_negative",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which quarter had the largest loss?",
+    "a": "Q4 (minus 7 M€)"
+   },
+   {
+    "q": "What was the profit in Q2?",
+    "a": "minus 3 M€"
+   },
+   {
+    "q": "How many quarters were negative?",
+    "a": "2 (Q2 and Q4)"
+   }
+  ],
+  "note": "negative values; 'minus', never 'dash'",
+  "text_A": "A bar chart of profit by quarter, four bars, in millions of euros. Values go below zero.\n\nProfit swings between gains and losses. The first and third quarters are positive; the second and fourth are losses.\n\nQ1: five million. Q2: minus three. Q3: two. Q4: minus seven, the worst quarter.\n\nAdded up, the four quarters come to minus three million.\n",
+  "text_B": "Profit by quarter, in millions of euros. Q1 was a profit of 5. Q2 was a loss of 3. Q3 was a profit of 2. And Q4 was a loss of 7, the worst quarter of the year.\n"
+ },
+ {
+  "id": "en_line_single",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "What is the overall trend?",
+    "a": "rising (10 to 25), with a dip in 2020"
+   },
+   {
+    "q": "What was the revenue in 2020?",
+    "a": "11 M€"
+   },
+   {
+    "q": "What is the last value, in 2024?",
+    "a": "25 M€"
+   }
+  ],
+  "note": "",
+  "text_A": "Revenue from 2015 to 2024, in millions of euros. It started at 10 in 2015 and rose steadily to 16 in 2018. It dipped to 15 in 2019 and fell to 11 in 2020. Then it recovered strongly: 17 in 2021, 21 in 2022, 23 in 2023, and 25 in 2024, the highest point.\n",
+  "text_B": "A line chart of annual revenue from twenty fifteen to twenty twenty-four, one point per year, in millions of euros.\n\nRevenue rises from ten to twenty-five million, with a dip in twenty nineteen and twenty twenty before it recovers. That is up about one hundred fifty percent over the period.\n\nThe low point is eleven million in twenty twenty. The peak is the last year, twenty-five.\n\nIn segments: from twenty fifteen to twenty eighteen, rising from ten to sixteen. Twenty nineteen and twenty twenty, falling to fifteen, then eleven. From twenty twenty-one to twenty twenty-four, rising from seventeen to twenty-five.\n"
+ },
+ {
+  "id": "en_line_multi",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which series is higher in 2019?",
+    "a": "B (14 vs 10)"
+   },
+   {
+    "q": "In which year does A first exceed B?",
+    "a": "2021 (16 vs 15)"
+   },
+   {
+    "q": "What is A's value in 2024?",
+    "a": "22"
+   }
+  ],
+  "note": "two series; vvr line mode uses the first series only",
+  "text_A": "A line chart from twenty nineteen to twenty twenty-four, one point per year, two series: Series A and Series B.\n\nSeries A rises steadily and overtakes Series B in twenty twenty-one. Series B grows slowly and then levels off.\n\nSeries A: from ten in twenty nineteen to twenty-two in twenty twenty-four. Series B: from fourteen to seventeen. The gap in the last year is five.\n\nYear by year, A then B. Twenty nineteen: ten and fourteen. Twenty twenty: twelve and fifteen. Twenty twenty-one: sixteen and fifteen.\nTwenty twenty-two: eighteen and sixteen. Twenty twenty-three: twenty and sixteen. Twenty twenty-four: twenty-two and seventeen.\n",
+  "text_B": "This chart follows two series, A and B, from 2019 to 2024.\nSeries A rises every year, from 10 in 2019 to 22 in 2024.\nSeries B starts higher, at 14, but grows slowly, reaching only 17 in 2024.\nThey cross in 2021: A is 16 and B is 15, so A is ahead from then on. By 2024, A is at 22 and B at 17.\n"
+ },
+ {
+  "id": "en_pie",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "What is the largest share?",
+    "a": "Rent, 52 %"
+   },
+   {
+    "q": "Does the largest share exceed half?",
+    "a": "yes"
+   },
+   {
+    "q": "How many parts are there?",
+    "a": "5"
+   }
+  ],
+  "note": "",
+  "text_A": "A pie chart of the household budget in five parts. Rent takes more than half.\n\nRent: fifty-two percent. Food: twenty. Transport: twelve. Leisure: nine. Other: seven.\n",
+  "text_B": "Household budget. Rent takes just over half, 52 percent. Food is 20 percent, transport 12 percent, leisure 9 percent, and other expenses 7 percent.\n"
+ },
+ {
+  "id": "en_scatter",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "What is the relationship between income and life expectancy?",
+    "a": "positive: higher income goes with higher life expectancy, USA an exception"
+   },
+   {
+    "q": "Which country has the highest life expectancy?",
+    "a": "Japan, 84 years"
+   },
+   {
+    "q": "How many points (countries) are plotted?",
+    "a": "8"
+   }
+  ],
+  "note": "",
+  "text_A": "A scatter plot of life expectancy in years against income in thousands of dollars, eight points, one per country. Higher income generally goes with longer life, with one clear exception: the USA.\n\nNigeria has the lowest values: income five thousand dollars, life expectancy fifty-three years. Norway has the highest income, seventy-five thousand, with eighty-three years. Japan has the longest life, eighty-four years, at forty-two thousand. The USA has sixty-five thousand but only seventy-seven years, below France at forty-five thousand and eighty-two years.\n\nThe other points, income then life expectancy: Chile, twenty-five thousand and eighty years. Mexico, twenty thousand and seventy-five. India, seven thousand and seventy.\n",
+  "text_B": "This chart plots income against life expectancy for eight countries. In general, higher income goes with longer life.\nNigeria has the lowest income, 5 thousand dollars, and the lowest life expectancy, 53 years. India has 7 thousand dollars and 70 years. Mexico has 20 thousand and 75 years. Chile has 25 thousand and 80 years.\nJapan has 42 thousand dollars and 84 years, the longest life expectancy. France has 45 thousand and 82 years.\nTwo countries stand out. Norway has the highest income, 75 thousand dollars, with 83 years. The USA has 65 thousand dollars but only 77 years, lower than countries with much less income, like Chile.\n"
+ },
+ {
+  "id": "en_flowchart_loop",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "What happens when the item is not in stock?",
+    "a": "it is back-ordered, then the stock check is repeated (loop)"
+   },
+   {
+    "q": "What is the step right after 'Pack'?",
+    "a": "Ship"
+   },
+   {
+    "q": "Where does the process end?",
+    "a": "Delivered"
+   }
+  ],
+  "note": "",
+  "text_A": "A flowchart with six steps and one decision, one entry point, one exit, from order received to delivered. It takes an order through a stock check to shipping.\n\nStep one, order received. Step two, check stock. Decision: in stock? If yes, step three, pack. If no, step four, back-order, then back to step two.\n\nAfter packing, step five, ship. Step six, delivered.\n\nSteps two and four form a loop until stock is available.\n",
+  "text_B": "This is an order process. It starts when an order is received. First, the stock is checked. If the item is in stock, it is packed, then shipped, and the order is delivered. If it is not in stock, it goes on back-order, and then the stock is checked again. That repeats until the item is in stock.\n"
+ },
+ {
+  "id": "en_flowchart_merge",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "How many entry points does the process have?",
+    "a": "2 (web order and phone order)"
+   },
+   {
+    "q": "What happens if payment is not OK?",
+    "a": "contact the customer, then back to validate order"
+   },
+   {
+    "q": "How many decisions are there?",
+    "a": "1"
+   }
+  ],
+  "note": "",
+  "text_A": "A flowchart with six steps and one decision, two entry points, one exit, from web order and phone order to done. It validates an order, checks payment, and fulfils it.\n\nStep one, web order. Step two, phone order. Both join step three, validate order. Decision: payment OK? If yes, step four, fulfil, then step six, done. If no, step five, contact customer, then back to step three.\n\nSteps three and five form a loop until payment is accepted.\n",
+  "text_B": "This process handles orders from two sources: web orders and phone orders. Both go to the same first step, validating the order. Then the payment is checked. If payment is OK, the order is fulfilled and the process is done. If not, the customer is contacted, and the order goes back to validation to be checked again.\n"
+ },
+ {
+  "id": "en_orgchart",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "How many direct reports does the CEO have?",
+    "a": "3 (CFO, CTO, COO)"
+   },
+   {
+    "q": "How many people are in Development?",
+    "a": "12"
+   },
+   {
+    "q": "Who is above Treasury?",
+    "a": "the CFO"
+   }
+  ],
+  "note": "",
+  "text_A": "An org chart with three levels and nine positions, led by the CEO. The CEO has three direct reports: the CFO, the CTO and the COO.\n\nUnder the CFO: accounting, three people; treasury, two. Under the CTO: development, twelve; operations, four. Under the COO: sales, twenty.\n\nThe teams add up to forty-one people. Ask for one branch in more detail.\n",
+  "text_B": "This is the company structure. The CEO has three direct reports: the CFO, the CTO, and the COO.\nUnder the CFO are Accounting, with 3 people, and Treasury, with 2 people.\nUnder the CTO are Development, with 12 people, and Operations, with 4 people.\nUnder the COO is Sales, with 20 people.\n"
+ },
+ {
+  "id": "en_sequence",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "How many participants are there?",
+    "a": "4 (User, App, Server, DB)"
+   },
+   {
+    "q": "What does the Server send back to the App?",
+    "a": "a token"
+   },
+   {
+    "q": "How many messages are exchanged?",
+    "a": "6"
+   }
+  ],
+  "note": "",
+  "text_A": "A sequence diagram with four participants: user, app, server and database; six messages. A user logs in: the app asks the server, which checks the database.\n\nFrom the user to the app: enter credentials. From the app to the server: verify. From the server to the database: read user.\n\nBack from the database to the server: record. Back from the server to the app: token. Back from the app to the user: logged in.\n",
+  "text_B": "This is a login sequence. The user enters credentials in the app. The app asks the server to verify them. The server reads the user from the database. The database returns the record to the server. The server sends a token back to the app. And the app tells the user they are logged in.\n"
+ },
+ {
+  "id": "en_image_only",
+  "lang": "en",
+  "questions": [
+   {
+    "q": "Which country has the tallest bar?",
+    "a": "France"
+   },
+   {
+    "q": "What is Spain's exact value?",
+    "a": "not readable / not stated (correct answer is 'not said')"
+   },
+   {
+    "q": "Does the reading say it comes from an image and is approximate?",
+    "a": "yes"
+   }
+  ],
+  "note": "judge: Q2 is correct only if the text does NOT give a value",
+  "text_A": "This is a photo of a printed bar chart titled Sales 2024, with four bars: France, Spain, Italy, and Portugal. France is clearly the tallest, with its top near the 40 line. Portugal is the shortest, below the 10 line. The other values on the vertical axis are blurred, so I can't read Spain's or Italy's exact figures.\n",
+  "text_B": "I am reading this from a photo, so values are approximate. It is a bar chart titled Sales twenty twenty-four, with four bars: France, Spain, Italy and Portugal. France is clearly the tallest, near forty. Portugal is the shortest, below ten. The other axis labels are blurred, so I can't tell the values for Spain and Italy. If you can share the data, I will read it exactly.\n"
+ },
+ {
+  "id": "fr_table_small",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle ville est la plus peuplée ?",
+    "a": "Toulouse"
+   },
+   {
+    "q": "Quelle est la superficie de Lille ?",
+    "a": "35 kilomètres carrés"
+   },
+   {
+    "q": "Combien de villes (lignes) ?",
+    "a": "4"
+   }
+  ],
+  "note": "",
+  "text_A": "Un tableau de trois colonnes et quatre lignes, une ligne par ville : population en millions, et superficie en kilomètres carrés. Toulouse est la plus peuplée et la plus étendue ; Lille est la plus petite.\n\nBordeaux : population zéro virgule vingt-six million ; superficie quarante-neuf kilomètres carrés.\nNantes : zéro virgule trente-deux million ; soixante-cinq kilomètres carrés.\nLille : zéro virgule vingt-quatre million ; trente-cinq kilomètres carrés.\n\nToulouse : zéro virgule cinq million ; cent dix-huit kilomètres carrés.\n",
+  "text_B": "Voici quatre villes. Bordeaux compte 0,26 million d'habitants sur 49 kilomètres carrés. Nantes, 0,32 million sur 65 kilomètres carrés. Lille, 0,24 million sur 35 kilomètres carrés. Et Toulouse, 0,50 million sur 118 kilomètres carrés.\n"
+ },
+ {
+  "id": "fr_table_medium",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quel élève a la meilleure moyenne ?",
+    "a": "Chloé (17,0)"
+   },
+   {
+    "q": "Quelle est la note de Bastien en français ?",
+    "a": "14"
+   },
+   {
+    "q": "Combien d'élèves (lignes) ?",
+    "a": "8"
+   }
+  ],
+  "note": "notes sur 20 ; décimale à virgule",
+  "text_A": "Ce tableau donne les notes de huit élèves en maths, français et histoire, avec leur moyenne.\nAmina : 15, 12 et 14, soit une moyenne de 13,7.\nBastien : 9, 14 et 11, moyenne de 11,3.\nChloé : 18, 16 et 17, moyenne de 17.\nDavid : 11, 8 et 10, moyenne de 9,7.\nEmma : 13, 13 et 13, moyenne de 13.\nFarid : 7, 10 et 9, moyenne de 8,7.\nGaëlle : 16, 17 et 15, moyenne de 16.\nHugo : 12, 11 et 14, moyenne de 12,3.\nChloé a la meilleure moyenne, Farid la plus basse.\n",
+  "text_B": "Un tableau de cinq colonnes et huit lignes, une ligne par élève : maths, français, histoire et moyenne, en notes sur vingt.\n\nChloé est en tête dans les trois matières, et Farid est le dernier de la classe.\n\nChloé, moyenne : dix-sept. Farid, moyenne : huit virgule sept. Deux élèves sont sous la moyenne de dix : Farid et David, avec neuf virgule sept. En maths, la meilleure note est dix-huit, pour Chloé ; la plus basse est sept, pour Farid.\n\nVous pouvez demander un élève, une matière ou une comparaison.\n"
+ },
+ {
+  "id": "fr_table_large",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle commune a le plus d'habitants ?",
+    "a": "Aix, 145 000"
+   },
+   {
+    "q": "Quelle commune est la plus haute en altitude ?",
+    "a": "Gap, 1 050 mètres"
+   },
+   {
+    "q": "Combien de communes (lignes) ?",
+    "a": "30"
+   }
+  ],
+  "note": "30 lignes ; le skill ne doit pas tout lire",
+  "text_A": "Ce tableau décrit trente communes, avec leur département, leur nombre d'habitants, leur altitude et leur superficie. Voici les points principaux.\nLa commune la plus peuplée est Aix, avec 145 000 habitants, suivie de Lens, avec environ 131 000, et de Vichy, avec environ 124 000. La moins peuplée est Figeac, avec 7 900 habitants.\nLa plus haute est Gap, à 1 050 mètres d'altitude. La plus basse est Calais, à 3 mètres.\nLa plus grande par la superficie est Mende, avec 90 kilomètres carrés. La plus petite est Bastia, avec 11 kilomètres carrés, comme Vichy.\nJe peux lire une commune en particulier si vous le souhaitez.\n",
+  "text_B": "Un tableau de cinq colonnes et trente lignes, une ligne par commune : commune, département, habitants et deux autres colonnes, l'altitude en mètres et la superficie en kilomètres carrés.\n\nAix est la commune la plus peuplée et Figeac la moins peuplée.\n\nAix : habitants, cent quarante-cinq mille. Figeac : sept mille neuf cents. La plus haute est Gap, à mille cinquante mètres d'altitude ; la plus basse est Calais, à trois mètres. La plus étendue est Mende, quatre-vingt-dix kilomètres carrés.\n\nVous pouvez demander les cinq communes les plus peuplées, une commune ou une colonne.\n"
+ },
+ {
+  "id": "fr_table_vides",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quel produit n'a pas de fournisseur indiqué ?",
+    "a": "Perceuse"
+   },
+   {
+    "q": "Quel est le stock du niveau ?",
+    "a": "0 (zéro)"
+   },
+   {
+    "q": "Quel produit n'a pas de prix ?",
+    "a": "Pince"
+   }
+  ],
+  "note": "",
+  "text_A": "Un tableau de quatre colonnes et cinq lignes, une ligne par produit : prix en euros, stock et fournisseur. Certaines cellules sont vides.\n\nLa perceuse est le produit le plus cher ; le marteau, le niveau et la scie sont moins chers.\n\nMarteau : prix douze euros cinquante ; stock quarante ; fournisseur Acme.\nScie : prix vingt-quatre euros ; stock, un tiret ; fournisseur Acme.\nPerceuse : prix quatre-vingt-neuf euros quatre-vingt-dix ; stock sept ; fournisseur, pas de valeur.\n\nNiveau : prix quinze euros ; stock zéro ; fournisseur Bolt.\nPince : prix, pas de valeur ; stock vingt-deux ; fournisseur Bolt.\n",
+  "text_B": "Ce tableau présente cinq produits, avec leur prix, leur stock et leur fournisseur.\nMarteau : 12 euros 50, 40 en stock, fournisseur Acme.\nScie : 24 euros, stock non renseigné, fournisseur Acme.\nPerceuse : 89 euros 90, 7 en stock, fournisseur non renseigné.\nNiveau : 15 euros, stock à zéro, fournisseur Bolt.\nPince : prix non renseigné, 22 en stock, fournisseur Bolt.\n"
+ },
+ {
+  "id": "fr_barres",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle région est en tête ?",
+    "a": "Île-de-France (120 M€)"
+   },
+   {
+    "q": "Quelles sont les ventes en Corse ?",
+    "a": "6 M€"
+   },
+   {
+    "q": "Combien de barres ?",
+    "a": "5"
+   }
+  ],
+  "note": "",
+  "text_A": "Un graphique en barres des ventes par région, cinq barres, en millions d'euros. L'Île-de-France est nettement en tête, presque le double de la deuxième ; la Corse est très loin derrière.\n\nÎle-de-France : cent vingt millions. Auvergne-Rhône-Alpes : soixante-cinq. Occitanie : quarante. Bretagne : trente. Corse : six, environ un vingtième de l'Île-de-France.\n",
+  "text_B": "Ventes par région, en millions d'euros. L'Île-de-France est largement en tête avec 120. Viennent ensuite l'Auvergne-Rhône-Alpes avec 65, l'Occitanie avec 40, la Bretagne avec 30, et enfin la Corse avec 6.\n"
+ },
+ {
+  "id": "fr_barres_groupees",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Dans quelle tranche l'écart en faveur des femmes est-il le plus grand ?",
+    "a": "60 ans et plus (810 contre 650)"
+   },
+   {
+    "q": "Combien d'hommes de 20 à 39 ans ?",
+    "a": "760 milliers (760 000)"
+   },
+   {
+    "q": "Combien de séries ?",
+    "a": "2 : hommes et femmes"
+   }
+  ],
+  "note": "",
+  "text_A": "Ce graphique compare le nombre d'hommes et de femmes par tranche d'âge, en milliers.\nDe 0 à 19 ans : 820 hommes et 790 femmes.\nDe 20 à 39 ans : 760 hommes et 770 femmes.\nDe 40 à 59 ans : 800 hommes et 830 femmes.\nÀ 60 ans et plus : 650 hommes et 810 femmes.\nLes hommes sont plus nombreux chez les plus jeunes, puis les femmes sont plus nombreuses à partir de 20 ans, avec un écart marqué après 60 ans.\n",
+  "text_B": "Un graphique en barres groupées par tranche d'âge, quatre tranches, deux séries : hommes et femmes, en milliers de personnes. Les femmes sont plus nombreuses, surtout à partir de soixante ans.\n\nDe zéro à dix-neuf ans : hommes huit cent vingt mille ; femmes sept cent quatre-vingt-dix mille.\nDe vingt à trente-neuf ans : hommes sept cent soixante mille ; femmes sept cent soixante-dix mille.\nDe quarante à cinquante-neuf ans : hommes huit cents mille ; femmes huit cent trente mille.\n\nSoixante ans et plus : hommes six cent cinquante mille ; femmes huit cent dix mille. L'écart est de cent soixante mille.\n"
+ },
+ {
+  "id": "fr_courbe",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quel est le mois le plus chaud ?",
+    "a": "juillet, 22,4 degrés"
+   },
+   {
+    "q": "Quelle est l'allure de la courbe ?",
+    "a": "monte jusqu'en juillet puis redescend (en cloche)"
+   },
+   {
+    "q": "Quelle est la température en janvier ?",
+    "a": "3,5 degrés"
+   }
+  ],
+  "note": "courbe en cloche : début ≈ fin",
+  "text_A": "Températures moyennes à Lyon, mois par mois. Il fait 3,5 degrés en janvier, 4,5 en février, 8,2 en mars, 11,5 en avril, 15,8 en mai, et 19,6 en juin. Le maximum est en juillet, à 22,4 degrés, puis 22,1 en août. Ensuite, la température redescend : 18 en septembre, 13,2 en octobre, 7,5 en novembre, et 4,2 en décembre.\n",
+  "text_B": "Une courbe des températures moyennes à Lyon, de janvier à décembre, un point par mois, en degrés Celsius.\n\nLa température monte de l'hiver à l'été, puis redescend. Le point bas est en janvier, trois virgule cinq degrés ; le sommet est en juillet, vingt-deux virgule quatre degrés, soit environ dix-neuf degrés d'écart.\n\nPar périodes : de janvier à juillet, elle monte de trois virgule cinq à vingt-deux virgule quatre. Août reste proche, vingt-deux virgule un. De septembre à décembre, elle baisse de dix-huit à quatre virgule deux.\n"
+ },
+ {
+  "id": "fr_courbe_deux_series",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quel pays a le taux le plus bas ?",
+    "a": "l'Allemagne"
+   },
+   {
+    "q": "Quel est le taux français en 2024 ?",
+    "a": "7,5 pour cent"
+   },
+   {
+    "q": "Quelle est la tendance en France ?",
+    "a": "en baisse (de 9,0 à 7,5), légère remontée en 2024"
+   }
+  ],
+  "note": "",
+  "text_A": "Taux de chômage, en pourcentage, de 2018 à 2024, pour la France et l'Allemagne.\nEn France, il baisse de 9 pour cent en 2018 à 7,3 en 2022 et 2023, puis remonte à 7,5 en 2024.\nEn Allemagne, il reste bas, entre 3 et 3,8 pour cent : 3,4 en 2018, 3,1 en 2019, un pic à 3,8 en 2020, puis 3,6, 3,1, 3 en 2023, et 3,4 en 2024.\nL'écart reste donc important : en 2024, la France est à plus du double de l'Allemagne.\n",
+  "text_B": "Une courbe du taux de chômage de deux mille dix-huit à deux mille vingt-quatre, un point par année, deux séries : France et Allemagne, en pourcentage.\n\nLe chômage est beaucoup plus élevé en France qu'en Allemagne. Il baisse en France jusqu'en deux mille vingt-trois, puis remonte légèrement ; en Allemagne il varie peu.\n\nFrance : de neuf pour cent en deux mille dix-huit à sept virgule cinq en deux mille vingt-quatre, avec un minimum de sept virgule trois en deux mille vingt-deux et deux mille vingt-trois. Allemagne : de trois virgule quatre à trois virgule quatre, avec un sommet de trois virgule huit en deux mille vingt et un minimum de trois en deux mille vingt-trois.\n\nL'écart passe de cinq virgule six points en deux mille dix-huit à quatre virgule un points en deux mille vingt-quatre.\n"
+ },
+ {
+  "id": "fr_camembert",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle est la plus grande part ?",
+    "a": "Chrome, 65 pour cent"
+   },
+   {
+    "q": "Dépasse-t-elle la moitié ?",
+    "a": "oui"
+   },
+   {
+    "q": "Combien de parts ?",
+    "a": "5"
+   }
+  ],
+  "note": "",
+  "text_A": "Un camembert des parts de marché des navigateurs, en cinq parts. Chrome occupe plus de la moitié.\n\nChrome : soixante-cinq pour cent. Safari : dix-huit. Autres : neuf. Edge : cinq. Firefox : trois.\n",
+  "text_B": "Parts de marché des navigateurs. Chrome domine nettement avec 65 pour cent. Safari suit avec 18 pour cent, puis les autres navigateurs ensemble avec 9 pour cent, Edge avec 5 pour cent, et Firefox avec 3 pour cent.\n"
+ },
+ {
+  "id": "fr_nuage",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle est la relation entre surface et prix ?",
+    "a": "positive : plus grand, plus cher ; F est une exception (petit et cher)"
+   },
+   {
+    "q": "Quel appartement est le plus cher ?",
+    "a": "G, 600 k€"
+   },
+   {
+    "q": "Combien de points ?",
+    "a": "8"
+   }
+  ],
+  "note": "",
+  "text_A": "Un nuage de points du prix en milliers d'euros en fonction de la surface en mètres carrés, huit points, un par appartement. Plus la surface est grande, plus le prix est élevé, avec une exception : l'appartement F.\n\nLe plus grand et le plus cher est G, cent mètres carrés pour six cent mille euros. Le plus petit et le moins cher est A, vingt-cinq mètres carrés pour cent quatre-vingt mille euros. F fait seulement trente mètres carrés, mais coûte trois cent dix mille euros, plus que B, qui fait quarante mètres carrés.\n\nLes autres, surface puis prix : B, quarante mètres carrés et deux cent soixante mille euros. C, cinquante-cinq et trois cent quarante mille.\nD, soixante-dix et quatre cent dix mille. E, quatre-vingt-cinq et cinq cent vingt mille. H, soixante et trois cent cinquante mille.\n",
+  "text_B": "Ce graphique relie la surface de huit appartements à leur prix. En général, plus l'appartement est grand, plus il est cher.\nL'appartement A fait 25 mètres carrés pour 180 000 euros. Le B, 40 mètres carrés, 260 000. Le C, 55 mètres carrés, 340 000. Le D, 70 mètres carrés, 410 000. Le E, 85 mètres carrés, 520 000. Le G, le plus grand, 100 mètres carrés pour 600 000 euros.\nDeux appartements s'écartent de cette tendance. Le F est petit, 30 mètres carrés, mais cher, 310 000 euros. Le H, avec 60 mètres carrés pour 350 000, est plutôt bon marché pour sa taille.\n"
+ },
+ {
+  "id": "fr_flux_boucle",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Que se passe-t-il si le dossier est incomplet ?",
+    "a": "on demande les pièces, puis retour à la vérification du dossier"
+   },
+   {
+    "q": "Combien de décisions ?",
+    "a": "2"
+   },
+   {
+    "q": "Que se passe-t-il en cas d'accord ?",
+    "a": "on notifie l'accord, puis fin"
+   }
+  ],
+  "note": "",
+  "text_A": "Voici le traitement d'une demande. Tout commence quand la demande est reçue. On vérifie le dossier. S'il n'est pas complet, on demande les pièces manquantes, puis on vérifie de nouveau le dossier, et cela se répète jusqu'à ce qu'il soit complet. Quand il est complet, on l'instruit. Ensuite, une décision est prise : en cas d'accord, on notifie l'accord, sinon on notifie le refus. Dans les deux cas, le processus se termine.\n",
+  "text_B": "Un diagramme de flux de sept étapes et deux décisions, une entrée, une sortie, de demande reçue à fin. Il traite une demande : vérification du dossier, instruction, puis notification de l'accord ou du refus.\n\nÉtape un, demande reçue. Étape deux, vérifier le dossier. Décision : dossier complet ? Si oui, étape trois, instruire. Si non, étape quatre, demander les pièces, puis retour à l'étape deux.\n\nAprès l'instruction, décision : accord ? Si oui, étape cinq, notifier l'accord. Si non, étape six, notifier le refus. Les deux rejoignent l'étape sept, fin.\n\nLes étapes deux et quatre forment une boucle jusqu'à ce que le dossier soit complet.\n"
+ },
+ {
+  "id": "fr_flux_fusion",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Combien de points d'entrée ?",
+    "a": "2 (web et téléphone)"
+   },
+   {
+    "q": "Que se passe-t-il si le paiement est refusé ?",
+    "a": "on contacte le client, puis retour à la validation"
+   },
+   {
+    "q": "Combien de décisions ?",
+    "a": "1"
+   }
+  ],
+  "note": "",
+  "text_A": "Un diagramme de flux de six étapes et une décision, deux entrées, une sortie, de commande web et commande téléphone à terminé. Il valide une commande, vérifie le paiement, puis la prépare.\n\nÉtape un, commande web. Étape deux, commande téléphone. Les deux rejoignent l'étape trois, valider la commande. Décision : paiement accepté ? Si oui, étape quatre, préparer, puis étape six, terminé. Si non, étape cinq, contacter le client, puis retour à l'étape trois.\n\nLes étapes trois et cinq forment une boucle jusqu'à ce que le paiement soit accepté.\n",
+  "text_B": "Ce processus traite les commandes de deux origines : les commandes web et les commandes par téléphone. Les deux arrivent à la même première étape, la validation de la commande. Ensuite, on regarde si le paiement est accepté. Si oui, on prépare la commande, et c'est terminé. Si non, on contacte le client, puis la commande retourne à la validation.\n"
+ },
+ {
+  "id": "fr_organigramme",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Combien de subordonnés directs a la directrice générale ?",
+    "a": "3 (DRH, DSI, directeur commercial)"
+   },
+   {
+    "q": "Quel est l'effectif du développement ?",
+    "a": "15"
+   },
+   {
+    "q": "Qui dirige la paie ?",
+    "a": "la DRH"
+   }
+  ],
+  "note": "",
+  "text_A": "Un organigramme de trois niveaux et dix postes, dirigé par la directrice générale. Elle a trois rattachements directs : la D R H, la D S I et le directeur commercial.\n\nSous la D R H : recrutement, quatre personnes ; paie, trois. Sous la D S I : développement, quinze ; support, six. Sous le directeur commercial : ventes, vingt-deux ; marketing, cinq.\n\nLes équipes totalisent cinquante-cinq personnes. Vous pouvez demander une branche en détail.\n",
+  "text_B": "Voici l'organisation de l'entreprise. La directrice générale a trois responsables directs : la DRH, le DSI et le directeur commercial.\nSous la DRH, il y a le recrutement, avec 4 personnes, et la paie, avec 3 personnes.\nSous le DSI, il y a le développement, avec 15 personnes, et le support, avec 6 personnes.\nSous le directeur commercial, il y a les ventes, avec 22 personnes, et le marketing, avec 5 personnes.\n"
+ },
+ {
+  "id": "fr_sequence",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Combien de participants ?",
+    "a": "4 (client, site, stock, paiement)"
+   },
+   {
+    "q": "Que répond le paiement au site ?",
+    "a": "accepté"
+   },
+   {
+    "q": "Combien de messages ?",
+    "a": "6"
+   }
+  ],
+  "note": "",
+  "text_A": "Voici le déroulé d'une commande en ligne. Le client ajoute un article au panier. Le site demande au stock si l'article est disponible, et le stock répond que oui. Le site demande alors une autorisation au service de paiement, qui l'accepte. Enfin, le site envoie une confirmation au client.\n",
+  "text_B": "Un diagramme de séquence à quatre participants : client, site, stock et paiement ; six messages. Un client ajoute un article au panier : le site vérifie le stock, puis fait autoriser le paiement.\n\nDu client au site : ajoute au panier. Du site au stock : vérifie la disponibilité. Retour du stock au site : disponible.\n\nDu site au paiement : autorise. Retour du paiement au site : accepté. Retour du site au client : confirmation.\n"
+ },
+ {
+  "id": "fr_carte_mentale",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Combien de branches principales ?",
+    "a": "4"
+   },
+   {
+    "q": "Quels sont les éléments de la branche Budget ?",
+    "a": "transport, hébergement, repas"
+   },
+   {
+    "q": "Quelles dates sont envisagées ?",
+    "a": "juillet et août"
+   }
+  ],
+  "note": "",
+  "text_A": "Une carte mentale centrée sur le projet vacances, avec quatre branches principales, sur deux niveaux : destination, budget, dates et activités.\n\nBranche destination, trois éléments : Italie, Grèce, Portugal.\nBranche budget, trois éléments : transport, hébergement, repas.\nBranche dates, deux éléments : juillet, août.\nBranche activités, quatre éléments : plage, randonnée, musées, cuisine.\n",
+  "text_B": "Cette carte mentale s'appelle Projet vacances, et elle a quatre branches.\nLa première, Destination : l'Italie, la Grèce ou le Portugal.\nLa deuxième, Budget : le transport, l'hébergement et les repas.\nLa troisième, Dates : juillet ou août.\nLa quatrième, Activités : la plage, la randonnée, les musées et la cuisine.\n"
+ },
+ {
+  "id": "fr_image_seule",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle est la plus grande part ?",
+    "a": "Loyer"
+   },
+   {
+    "q": "Quel est le pourcentage exact des loisirs ?",
+    "a": "illisible / non dit (la bonne réponse est « non dit »)"
+   },
+   {
+    "q": "La lecture dit-elle qu'elle vient d'une image et reste approximative ?",
+    "a": "oui"
+   }
+  ],
+  "note": "juge : Q2 correcte seulement si aucun pourcentage n'est donné",
+  "text_A": "C'est la photo d'un camembert imprimé, intitulé Répartition du budget, avec cinq parts. La plus grande s'appelle Loyer et occupe nettement plus de la moitié du disque. Une petite part s'appelle Loisirs. Les pourcentages imprimés sont flous, donc je ne peux pas les lire, ni donner les valeurs exactes des autres parts.\n",
+  "text_B": "Je lis ceci à partir d'une photo, donc ce que je dis reste approximatif. C'est un camembert intitulé Répartition du budget, en cinq parts. La plus grande est étiquetée Loyer, et elle occupe nettement plus de la moitié du disque. Une petite part est étiquetée Loisirs. Les pourcentages imprimés sont flous, donc je ne peux pas vous donner les valeurs. Si vous pouvez me fournir les données, je les lirai exactement.\n"
+ },
+ {
+  "id": "fr_interpretation",
+  "lang": "fr",
+  "questions": [
+   {
+    "q": "Quelle est la valeur en 2020 ?",
+    "a": "11 M€"
+   },
+   {
+    "q": "La réponse à « pourquoi » est-elle présentée comme une interprétation, distincte des données ?",
+    "a": "oui (marqueur du type « mon interprétation »)"
+   },
+   {
+    "q": "La réponse dit-elle que le graphique ne donne pas la cause ?",
+    "a": "oui"
+   }
+  ],
+  "note": "demande d'interprétation (niveau 4) ; la donnée ne contient pas la cause",
+  "text_A": "Chiffre d'affaires de 2015 à 2024, en millions d'euros. Il part de 10 en 2015 et monte régulièrement jusqu'à 16 en 2018. Il recule à 15 en 2019, puis tombe à 11 en 2020, c'est le creux. Ensuite, il repart fortement : 17 en 2021, 21 en 2022, 23 en 2023, et 25 en 2024, son plus haut niveau.\nVous demandez pourquoi ce creux en 2020. Le tableau ne donne pas la cause, il montre seulement la baisse, de 15 à 11 millions. On peut penser à la crise sanitaire de 2020, mais ce n'est qu'une hypothèse : il faudrait la confirmer avec d'autres informations sur l'activité de l'entreprise.\n",
+  "text_B": "Une courbe du chiffre d'affaires annuel de deux mille quinze à deux mille vingt-quatre, un point par année, en millions d'euros.\n\nIl monte de dix à vingt-cinq millions, avec un creux en deux mille vingt. Le point bas est onze millions en deux mille vingt ; le sommet est la dernière année, vingt-cinq.\n\nPour votre question sur le creux de deux mille vingt : les données montrent une baisse de quinze à onze millions entre deux mille dix-neuf et deux mille vingt, puis une reprise à dix-sept millions en deux mille vingt et un. Mon interprétation : cela correspond à l'année de la pandémie, mais la courbe ne le dit pas.\n"
+ }
+]

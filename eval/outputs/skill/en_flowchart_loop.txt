@@ -1,0 +1,7 @@
+A flowchart with six steps and one decision, one entry point, one exit, from order received to delivered. It takes an order through a stock check to shipping.
+
+Step one, order received. Step two, check stock. Decision: in stock? If yes, step three, pack. If no, step four, back-order, then back to step two.
+
+After packing, step five, ship. Step six, delivered.
+
+Steps two and four form a loop until stock is available.

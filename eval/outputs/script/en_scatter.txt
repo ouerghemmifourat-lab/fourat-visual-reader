@@ -1,0 +1,5 @@
+A table with three columns and eight rows: Country, Income and Life expectancy.
+
+Norway has the largest Income; Nigeria the smallest. Norway, Income: seventy-five thousand dollars. Nigeria: five thousand dollars.
+
+I can read it row by row, go through one column, or compare two rows. What would you like?

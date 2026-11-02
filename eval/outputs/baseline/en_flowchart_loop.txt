@@ -1,0 +1,1 @@
+This is an order process. It starts when an order is received. First, the stock is checked. If the item is in stock, it is packed, then shipped, and the order is delivered. If it is not in stock, it goes on back-order, and then the stock is checked again. That repeats until the item is in stock.

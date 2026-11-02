@@ -1,0 +1,6 @@
+Ce tableau présente cinq produits, avec leur prix, leur stock et leur fournisseur.
+Marteau : 12 euros 50, 40 en stock, fournisseur Acme.
+Scie : 24 euros, stock non renseigné, fournisseur Acme.
+Perceuse : 89 euros 90, 7 en stock, fournisseur non renseigné.
+Niveau : 15 euros, stock à zéro, fournisseur Bolt.
+Pince : prix non renseigné, 22 en stock, fournisseur Bolt.

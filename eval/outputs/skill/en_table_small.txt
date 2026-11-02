@@ -1,0 +1,5 @@
+A table with three columns and three rows, one row per city: population in millions, and area in square kilometres. Paris is the most populous, but Marseille covers the largest area.
+
+Paris: population two point one million; area one hundred five square kilometres.
+Lyon: zero point five million; forty-eight square kilometres.
+Marseille: zero point nine million; two hundred forty-one square kilometres.

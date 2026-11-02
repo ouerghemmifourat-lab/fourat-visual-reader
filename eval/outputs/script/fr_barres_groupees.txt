@@ -1,0 +1,7 @@
+Un tableau de trois colonnes et quatre lignes : Tranche d'âge, Hommes et Femmes. Valeurs en milliers.
+
+zéro à dix-neuf ans a la plus grande valeur de Hommes ; soixante ans et plus la plus petite. zéro à dix-neuf ans, Hommes : huit cent vingt milliers. soixante ans et plus : six cent cinquante milliers.
+
+zéro à dix-neuf ans : Hommes huit cent vingt milliers ; Femmes sept cent quatre-vingt-dix milliers. vingt à trente-neuf ans : Hommes sept cent soixante milliers ; Femmes sept cent soixante-dix milliers. quarante à cinquante-neuf ans : Hommes huit cents milliers ; Femmes huit cent trente milliers.
+
+soixante ans et plus : Hommes six cent cinquante milliers ; Femmes huit cent dix milliers.

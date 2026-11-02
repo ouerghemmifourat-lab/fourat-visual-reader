@@ -1,0 +1,6 @@
+Une carte mentale centrée sur le projet vacances, avec quatre branches principales, sur deux niveaux : destination, budget, dates et activités.
+
+Branche destination, trois éléments : Italie, Grèce, Portugal.
+Branche budget, trois éléments : transport, hébergement, repas.
+Branche dates, deux éléments : juillet, août.
+Branche activités, quatre éléments : plage, randonnée, musées, cuisine.

@@ -1,0 +1,7 @@
+A bar chart of profit by quarter, four bars, in millions of euros. Values go below zero.
+
+Profit swings between gains and losses. The first and third quarters are positive; the second and fourth are losses.
+
+Q1: five million. Q2: minus three. Q3: two. Q4: minus seven, the worst quarter.
+
+Added up, the four quarters come to minus three million.

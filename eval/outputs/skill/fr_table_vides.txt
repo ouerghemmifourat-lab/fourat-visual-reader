@@ -1,0 +1,10 @@
+Un tableau de quatre colonnes et cinq lignes, une ligne par produit : prix en euros, stock et fournisseur. Certaines cellules sont vides.
+
+La perceuse est le produit le plus cher ; le marteau, le niveau et la scie sont moins chers.
+
+Marteau : prix douze euros cinquante ; stock quarante ; fournisseur Acme.
+Scie : prix vingt-quatre euros ; stock, un tiret ; fournisseur Acme.
+Perceuse : prix quatre-vingt-neuf euros quatre-vingt-dix ; stock sept ; fournisseur, pas de valeur.
+
+Niveau : prix quinze euros ; stock zéro ; fournisseur Bolt.
+Pince : prix, pas de valeur ; stock vingt-deux ; fournisseur Bolt.

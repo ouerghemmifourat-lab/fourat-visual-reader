@@ -1,0 +1,240 @@
+[
+ {
+  "id": "en_table_small",
+  "lang": "en",
+  "kind": "table",
+  "title": "",
+  "input": "| City | Population (millions) | Area (km²) |\n|---|---|---|\n| Paris | 2.1 | 105 |\n| Lyon | 0.5 | 48 |\n| Marseille | 0.9 | 241 |"
+ },
+ {
+  "id": "en_table_medium",
+  "lang": "en",
+  "kind": "table",
+  "title": "",
+  "input": "Product,Q1 (k€),Q2 (k€),Q3 (k€),Q4 (k€)\nAlpha,120,135,150,160\nBeta,80,82,79,85\nGamma,200,190,180,170\nDelta,45,50,55,60\nEpsilon,310,300,320,330\nZeta,15,18,20,22\nEta,95,100,105,110\nTheta,60,58,61,59"
+ },
+ {
+  "id": "en_table_large",
+  "lang": "en",
+  "kind": "table",
+  "title": "",
+  "input": "Store,City,Staff,Revenue (k€),Margin (%),Opened\nS01,Lille,24,274,10,2021\nS02,Lyon,7,194,17,2018\nS03,Nice,10,494,13,2002\nS04,Nantes,36,339,4,2003\nS05,Rennes,31,548,5,2008\nS06,Reims,9,684,10,2002\nS07,Metz,40,246,7,2021\nS08,Brest,7,710,13,2013\nS09,Tours,7,346,4,2018\nS10,Dijon,12,416,10,2005\nS11,Angers,38,240,13,2010\nS12,Nîmes,52,980,6,2004\nS13,Caen,40,774,7,2012\nS14,Pau,10,680,15,2003\nS15,Bayonne,40,181,13,2007\nS16,Annecy,35,816,12,2014\nS17,Troyes,24,596,13,2015\nS18,Lorient,27,426,7,2006\nS19,Vannes,19,203,13,2010\nS20,Arles,37,626,18,2011\nS21,Agen,32,414,13,2003\nS22,Albi,11,644,10,2006\nS23,Cahors,25,275,18,2016\nS24,Blois,30,160,14,2003\nS25,Sens,39,706,16,2011\nS26,Auch,25,831,9,2020\nS27,Dax,3,41,16,2015\nS28,Royan,8,215,8,2016\nS29,Niort,8,182,15,2023\nS30,Melun,23,782,13,2022\nS31,Évry,32,411,15,2013\nS32,Sète,26,143,11,2012"
+ },
+ {
+  "id": "en_table_multiheader",
+  "lang": "en",
+  "kind": "table",
+  "title": "",
+  "input": "| Region | Units 2023 | Revenue 2023 (k€) | Units 2024 | Revenue 2024 (k€) |\n|---|---|---|---|---|\n| North | 1,200 | 480 | 1,350 | 560 |\n| South | 900 | 350 | 880 | 340 |\n| West | 400 | 150 | 620 | 240 |"
+ },
+ {
+  "id": "en_table_empty",
+  "lang": "en",
+  "kind": "table",
+  "title": "",
+  "input": "| Product | Price (€) | Stock | Supplier |\n|---|---|---|---|\n| Hammer | 12.50 | 40 | Acme |\n| Saw | 24.00 | — | Acme |\n| Drill | 89.90 | 7 | |\n| Level | 15.00 | 0 | Bolt Co |\n| Pliers | | 22 | Bolt Co |"
+ },
+ {
+  "id": "en_bars_simple",
+  "lang": "en",
+  "kind": "bars",
+  "title": "Sales by country, 2024",
+  "input": "Country,Sales (M€)\nFrance,42\nSpain,38\nItaly,25\nPortugal,9"
+ },
+ {
+  "id": "en_bars_grouped",
+  "lang": "en",
+  "kind": "bars",
+  "title": "",
+  "input": "| Country | Online (M€) | Stores (M€) |\n|---|---|---|\n| France | 12 | 30 |\n| Spain | 20 | 18 |\n| Italy | 10 | 15 |"
+ },
+ {
+  "id": "en_bars_negative",
+  "lang": "en",
+  "kind": "bars",
+  "title": "",
+  "input": "Quarter,Profit (M€)\nQ1,5\nQ2,-3\nQ3,2\nQ4,-7"
+ },
+ {
+  "id": "en_line_single",
+  "lang": "en",
+  "kind": "line",
+  "title": "",
+  "input": "Year,Revenue (M€)\n2015,10\n2016,12\n2017,14\n2018,16\n2019,15\n2020,11\n2021,17\n2022,21\n2023,23\n2024,25"
+ },
+ {
+  "id": "en_line_multi",
+  "lang": "en",
+  "kind": "line",
+  "title": "",
+  "input": "| Year | Series A | Series B |\n|---|---|---|\n| 2019 | 10 | 14 |\n| 2020 | 12 | 15 |\n| 2021 | 16 | 15 |\n| 2022 | 18 | 16 |\n| 2023 | 20 | 16 |\n| 2024 | 22 | 17 |"
+ },
+ {
+  "id": "en_pie",
+  "lang": "en",
+  "kind": "pie",
+  "title": "Household budget",
+  "input": "Item,Share (%)\nRent,52\nFood,20\nTransport,12\nLeisure,9\nOther,7"
+ },
+ {
+  "id": "en_scatter",
+  "lang": "en",
+  "kind": "scatter",
+  "title": "",
+  "input": "| Country | Income (k$) | Life expectancy (years) |\n|---|---|---|\n| Japan | 42 | 84 |\n| Norway | 75 | 83 |\n| Chile | 25 | 80 |\n| Mexico | 20 | 75 |\n| India | 7 | 70 |\n| Nigeria | 5 | 53 |\n| USA | 65 | 77 |\n| France | 45 | 82 |"
+ },
+ {
+  "id": "en_flowchart_loop",
+  "lang": "en",
+  "kind": "flowchart",
+  "title": "",
+  "input": "flowchart TD\n  A((Order received)) --> B[Check stock]\n  B --> C{In stock?}\n  C -->|yes| D[Pack]\n  C -->|no| E[Back-order]\n  E --> B\n  D --> F[Ship]\n  F --> G((Delivered))"
+ },
+ {
+  "id": "en_flowchart_merge",
+  "lang": "en",
+  "kind": "flowchart",
+  "title": "",
+  "input": "flowchart LR\n  A((Web order)) --> C[Validate order]\n  B((Phone order)) --> C\n  C --> D{Payment OK?}\n  D -->|yes| E[Fulfil]\n  D -->|no| F[Contact customer]\n  F --> C\n  E --> G((Done))"
+ },
+ {
+  "id": "en_orgchart",
+  "lang": "en",
+  "kind": "orgchart",
+  "title": "",
+  "input": "CEO\n  CFO\n    Accounting (3 people)\n    Treasury (2 people)\n  CTO\n    Development (12 people)\n    Operations (4 people)\n  COO\n    Sales (20 people)"
+ },
+ {
+  "id": "en_sequence",
+  "lang": "en",
+  "kind": "sequence",
+  "title": "",
+  "input": "sequenceDiagram\n  User->>App: enter credentials\n  App->>Server: verify\n  Server->>DB: read user\n  DB-->>Server: record\n  Server-->>App: token\n  App-->>User: logged in"
+ },
+ {
+  "id": "en_image_only",
+  "lang": "en",
+  "kind": "image",
+  "title": "",
+  "input": "[Image: a photo of a printed bar chart. Legible: the title \"Sales 2024\"; four bars labelled France, Spain, Italy, Portugal;\nFrance is clearly the tallest (its top is near the gridline marked 40); Portugal is the shortest (below the gridline marked\n10). The other y-axis labels are blurred and unreadable.]"
+ },
+ {
+  "id": "fr_table_small",
+  "lang": "fr",
+  "kind": "table",
+  "title": "",
+  "input": "| Ville | Population (millions) | Superficie (km²) |\n|---|---|---|\n| Bordeaux | 0,26 | 49 |\n| Nantes | 0,32 | 65 |\n| Lille | 0,24 | 35 |\n| Toulouse | 0,50 | 118 |"
+ },
+ {
+  "id": "fr_table_medium",
+  "lang": "fr",
+  "kind": "table",
+  "title": "",
+  "input": "Élève;Maths;Français;Histoire;Moyenne\nAmina;15;12;14;13,7\nBastien;9;14;11;11,3\nChloé;18;16;17;17,0\nDavid;11;8;10;9,7\nEmma;13;13;13;13,0\nFarid;7;10;9;8,7\nGaëlle;16;17;15;16,0\nHugo;12;11;14;12,3"
+ },
+ {
+  "id": "fr_table_large",
+  "lang": "fr",
+  "kind": "table",
+  "title": "",
+  "input": "Commune;Département;Habitants;Altitude (m);Superficie (km²)\nAix;58;145000;578;69\nAlbi;61;57781;194;75\nAnnecy;39;56804;101;67\nArles;89;45170;97;78\nAuch;58;18978;614;60\nBastia;68;49286;643;11\nBlois;25;24558;65;14\nBrive;60;71423;619;13\nCahors;26;93535;456;85\nCalais;64;69248;3;47\nCognac;59;9204;683;20\nColmar;11;80918;421;80\nDinan;66;74583;327;39\nDole;73;83770;35;18\nÉpinal;38;36292;415;23\nFigeac;88;7900;73;12\nGap;07;42000;1050;36\nLens;54;131204;389;60\nMende;26;27146;584;90\nMillau;40;78720;349;21\nNevers;16;95185;20;62\nNiort;02;43283;257;22\nOrange;23;23700;481;72\nPau;25;57384;463;75\nRodez;15;42332;434;59\nRoyan;01;111508;435;37\nSaumur;03;78725;611;48\nSens;78;63236;196;60\nTulle;28;34301;48;28\nVichy;79;123747;269;11"
+ },
+ {
+  "id": "fr_table_vides",
+  "lang": "fr",
+  "kind": "table",
+  "title": "",
+  "input": "| Produit | Prix (€) | Stock | Fournisseur |\n|---|---|---|---|\n| Marteau | 12,50 | 40 | Acme |\n| Scie | 24,00 | — | Acme |\n| Perceuse | 89,90 | 7 | |\n| Niveau | 15,00 | 0 | Bolt |\n| Pince | | 22 | Bolt |"
+ },
+ {
+  "id": "fr_barres",
+  "lang": "fr",
+  "kind": "bars",
+  "title": "Ventes par région",
+  "input": "Région;Ventes (M€)\nÎle-de-France;120\nAuvergne-Rhône-Alpes;65\nOccitanie;40\nBretagne;30\nCorse;6"
+ },
+ {
+  "id": "fr_barres_groupees",
+  "lang": "fr",
+  "kind": "bars",
+  "title": "",
+  "input": "| Tranche d'âge | Hommes (milliers) | Femmes (milliers) |\n|---|---|---|\n| 0 à 19 ans | 820 | 790 |\n| 20 à 39 ans | 760 | 770 |\n| 40 à 59 ans | 800 | 830 |\n| 60 ans et plus | 650 | 810 |"
+ },
+ {
+  "id": "fr_courbe",
+  "lang": "fr",
+  "kind": "line",
+  "title": "Températures moyennes à Lyon",
+  "input": "Mois;Température (°C)\njanvier;3,5\nfévrier;4,5\nmars;8,2\navril;11,5\nmai;15,8\njuin;19,6\njuillet;22,4\naoût;22,1\nseptembre;18,0\noctobre;13,2\nnovembre;7,5\ndécembre;4,2"
+ },
+ {
+  "id": "fr_courbe_deux_series",
+  "lang": "fr",
+  "kind": "line",
+  "title": "Taux de chômage",
+  "input": "| Année | France (%) | Allemagne (%) |\n|---|---|---|\n| 2018 | 9,0 | 3,4 |\n| 2019 | 8,4 | 3,1 |\n| 2020 | 8,0 | 3,8 |\n| 2021 | 7,9 | 3,6 |\n| 2022 | 7,3 | 3,1 |\n| 2023 | 7,3 | 3,0 |\n| 2024 | 7,5 | 3,4 |"
+ },
+ {
+  "id": "fr_camembert",
+  "lang": "fr",
+  "kind": "pie",
+  "title": "Parts de marché des navigateurs",
+  "input": "Navigateur;Part (%)\nChrome;65\nSafari;18\nAutres;9\nEdge;5\nFirefox;3"
+ },
+ {
+  "id": "fr_nuage",
+  "lang": "fr",
+  "kind": "scatter",
+  "title": "",
+  "input": "| Appartement | Surface (m²) | Prix (k€) |\n|---|---|---|\n| A | 25 | 180 |\n| B | 40 | 260 |\n| C | 55 | 340 |\n| D | 70 | 410 |\n| E | 85 | 520 |\n| F | 30 | 310 |\n| G | 100 | 600 |\n| H | 60 | 350 |"
+ },
+ {
+  "id": "fr_flux_boucle",
+  "lang": "fr",
+  "kind": "flowchart",
+  "title": "",
+  "input": "flowchart TD\n  A((Demande reçue)) --> B[Vérifier le dossier]\n  B --> C{Dossier complet ?}\n  C -->|oui| D[Instruire]\n  C -->|non| E[Demander les pièces]\n  E --> B\n  D --> F{Accord ?}\n  F -->|oui| G[Notifier l'accord]\n  F -->|non| H[Notifier le refus]\n  G --> I((Fin))\n  H --> I"
+ },
+ {
+  "id": "fr_flux_fusion",
+  "lang": "fr",
+  "kind": "flowchart",
+  "title": "",
+  "input": "flowchart LR\n  A((Commande web)) --> C[Valider la commande]\n  B((Commande téléphone)) --> C\n  C --> D{Paiement accepté ?}\n  D -->|oui| E[Préparer]\n  D -->|non| F[Contacter le client]\n  F --> C\n  E --> G((Terminé))"
+ },
+ {
+  "id": "fr_organigramme",
+  "lang": "fr",
+  "kind": "orgchart",
+  "title": "",
+  "input": "Directrice générale\n  DRH\n    Recrutement (4 personnes)\n    Paie (3 personnes)\n  DSI\n    Développement (15 personnes)\n    Support (6 personnes)\n  Directeur commercial\n    Ventes (22 personnes)\n    Marketing (5 personnes)"
+ },
+ {
+  "id": "fr_sequence",
+  "lang": "fr",
+  "kind": "sequence",
+  "title": "",
+  "input": "sequenceDiagram\n  Client->>Site: ajoute au panier\n  Site->>Stock: vérifie la disponibilité\n  Stock-->>Site: disponible\n  Site->>Paiement: autorise\n  Paiement-->>Site: accepté\n  Site-->>Client: confirmation"
+ },
+ {
+  "id": "fr_carte_mentale",
+  "lang": "fr",
+  "kind": "mindmap",
+  "title": "",
+  "input": "mindmap\n  root((Projet vacances))\n    Destination\n      Italie\n      Grèce\n      Portugal\n    Budget\n      Transport\n      Hébergement\n      Repas\n    Dates\n      Juillet\n      Août\n    Activités\n      Plage\n      Randonnée\n      Musées\n      Cuisine"
+ },
+ {
+  "id": "fr_image_seule",
+  "lang": "fr",
+  "kind": "image",
+  "title": "",
+  "input": "[Image : photo d'un camembert imprimé. Lisible : le titre « Répartition du budget » ; cinq parts ; la plus grande part est\nétiquetée « Loyer » et occupe nettement plus de la moitié du disque ; une petite part est étiquetée « Loisirs ». Les\npourcentages imprimés sont flous et illisibles.]"
+ },
+ {
+  "id": "fr_interpretation",
+  "lang": "fr",
+  "kind": "line",
+  "title": "",
+  "input": "Année;Chiffre d'affaires (M€)\n2015;10\n2016;12\n2017;14\n2018;16\n2019;15\n2020;11\n2021;17\n2022;21\n2023;23\n2024;25\n\n[L'auditeur demande ensuite : « Pourquoi le creux en 2020 ? »]"
+ }
+]

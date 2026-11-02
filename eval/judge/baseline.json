@@ -1,0 +1,308 @@
+[
+ {
+  "id": "en_table_small",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_table_medium",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q1/Q2 derived from the full per-quarter figures; A Q2 says 'Gamma falls' with Q1 and Q4 only"
+ },
+ {
+  "id": "en_table_large",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B names stores by city only, no S12/S27 ids; accepted as label"
+ },
+ {
+  "id": "en_table_multiheader",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q2 derived from the stated 2023/2024 revenues"
+ },
+ {
+  "id": "en_table_empty",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_bars_simple",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q3 not stated but computable from 42 and 9; graded correct (borderline)"
+ },
+ {
+  "id": "en_bars_grouped",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_bars_negative",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B says 'loss of 3' for minus 3; accepted as equivalent"
+ },
+ {
+  "id": "en_line_single",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_line_multi",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_pie",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q3 counted from the five parts listed"
+ },
+ {
+  "id": "en_scatter",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_flowchart_loop",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_flowchart_merge",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q3 counted from the single decision described (borderline)"
+ },
+ {
+  "id": "en_orgchart",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "en_sequence",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q1/Q3 counted from the narrated participants and messages"
+ },
+ {
+  "id": "en_image_only",
+  "verdicts": [
+   "correct",
+   "correct",
+   "not_said"
+  ],
+  "note": "A says it is a photo and values are blurred but never says the reading is approximate (borderline)"
+ },
+ {
+  "id": "fr_table_small",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_table_medium",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B never gives Bastien's French mark"
+ },
+ {
+  "id": "fr_table_large",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_table_vides",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_barres",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q3 counted from the five regions listed"
+ },
+ {
+  "id": "fr_barres_groupees",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_courbe",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_courbe_deux_series",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_camembert",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q2 derived from 65 percent; Q3 counted from the five parts listed"
+ },
+ {
+  "id": "fr_nuage",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_flux_boucle",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "A Q2 counted from the two decisions narrated"
+ },
+ {
+  "id": "fr_flux_fusion",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "B Q3 counted from the single decision described (borderline)"
+ },
+ {
+  "id": "fr_organigramme",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_sequence",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "A Q1/Q3 counted from the narrated participants and messages"
+ },
+ {
+  "id": "fr_carte_mentale",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fr_image_seule",
+  "verdicts": [
+   "correct",
+   "correct",
+   "not_said"
+  ],
+  "note": "A says photo and blurred values but never says the reading is approximate (borderline)"
+ },
+ {
+  "id": "fr_interpretation",
+  "verdicts": [
+   "correct",
+   "correct",
+   "correct"
+  ],
+  "note": "A marks interpretation with 'ce n'est qu'une hypothèse' rather than 'mon interprétation'; accepted"
+ }
+]

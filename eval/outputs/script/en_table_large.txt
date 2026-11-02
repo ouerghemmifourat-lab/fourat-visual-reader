@@ -1,0 +1,5 @@
+A table with six columns and thirty-two rows: Store, City, Staff, Revenue, Margin and Opened.
+
+S12 has the largest Staff; S27 the smallest. S12, Staff: fifty-two. S27: three.
+
+That is a large table. I can read the top rows, one column, or a filtered subset. What would you like?

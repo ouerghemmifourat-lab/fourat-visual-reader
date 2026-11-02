@@ -1,0 +1,5 @@
+This table lists 32 stores, with their city, staff, revenue in thousands of euros, margin, and year opened. Here are the main points.
+The highest revenue is Nîmes, store S12, with 980 thousand euros, and it also has the most staff, 52 people. The lowest revenue is Dax, store S27, with just 41 thousand euros and 3 staff.
+Margins range from 4 percent, at Nantes and Tours, up to 18 percent, at Arles and Cahors.
+The oldest stores are Nice and Reims, opened in 2002. The newest is Niort, opened in 2023.
+I can read out any particular store if you want.

@@ -1,0 +1,8 @@
+A line chart from twenty nineteen to twenty twenty-four, one point per year, two series: Series A and Series B.
+
+Series A rises steadily and overtakes Series B in twenty twenty-one. Series B grows slowly and then levels off.
+
+Series A: from ten in twenty nineteen to twenty-two in twenty twenty-four. Series B: from fourteen to seventeen. The gap in the last year is five.
+
+Year by year, A then B. Twenty nineteen: ten and fourteen. Twenty twenty: twelve and fifteen. Twenty twenty-one: sixteen and fifteen.
+Twenty twenty-two: eighteen and sixteen. Twenty twenty-three: twenty and sixteen. Twenty twenty-four: twenty-two and seventeen.

@@ -1,0 +1,5 @@
+A table with five columns and eight rows: Product, Q1, Q2, Q3 and Q4. Values in thousand euros.
+
+Epsilon has the largest Q1; Zeta the smallest. Epsilon, Q1: three hundred ten thousand euros. Zeta: fifteen thousand euros.
+
+I can read it row by row, go through one column, or compare two rows. What would you like?

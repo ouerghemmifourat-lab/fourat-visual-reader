@@ -1,0 +1,5 @@
+A bar chart of Profit by Quarter, four bars, in million euros. Some values are below zero. Q1 is highest; Q4 is lowest.
+
+Q1: five million euros. Q2: minus three. Q3: two.
+
+Q4: minus seven million euros.

@@ -1,0 +1,4 @@
+This is the company structure. The CEO has three direct reports: the CFO, the CTO, and the COO.
+Under the CFO are Accounting, with 3 people, and Treasury, with 2 people.
+Under the CTO are Development, with 12 people, and Operations, with 4 people.
+Under the COO is Sales, with 20 people.

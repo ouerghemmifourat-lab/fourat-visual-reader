@@ -1,0 +1,5 @@
+A flowchart with six steps and one decision, two entry points, one exit, from web order and phone order to done. It validates an order, checks payment, and fulfils it.
+
+Step one, web order. Step two, phone order. Both join step three, validate order. Decision: payment OK? If yes, step four, fulfil, then step six, done. If no, step five, contact customer, then back to step three.
+
+Steps three and five form a loop until payment is accepted.

@@ -1,0 +1,4 @@
+Voici l'organisation de l'entreprise. La directrice générale a trois responsables directs : la DRH, le DSI et le directeur commercial.
+Sous la DRH, il y a le recrutement, avec 4 personnes, et la paie, avec 3 personnes.
+Sous le DSI, il y a le développement, avec 15 personnes, et le support, avec 6 personnes.
+Sous le directeur commercial, il y a les ventes, avec 22 personnes, et le marketing, avec 5 personnes.

@@ -1,0 +1,3 @@
+Ce graphique relie la surface de huit appartements à leur prix. En général, plus l'appartement est grand, plus il est cher.
+L'appartement A fait 25 mètres carrés pour 180 000 euros. Le B, 40 mètres carrés, 260 000. Le C, 55 mètres carrés, 340 000. Le D, 70 mètres carrés, 410 000. Le E, 85 mètres carrés, 520 000. Le G, le plus grand, 100 mètres carrés pour 600 000 euros.
+Deux appartements s'écartent de cette tendance. Le F est petit, 30 mètres carrés, mais cher, 310 000 euros. Le H, avec 60 mètres carrés pour 350 000, est plutôt bon marché pour sa taille.

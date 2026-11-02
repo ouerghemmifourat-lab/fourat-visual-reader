@@ -1,0 +1,5 @@
+Un graphique en barres de Ventes par Région, cinq barres, en millions d'euros, intitulé "Ventes par région". Île-de-France est en tête ; Corse est le plus bas.
+
+Île-de-France : cent vingt millions d'euros. Auvergne-Rhône-Alpes : soixante-cinq. Occitanie : quarante.
+
+Bretagne : trente millions d'euros. Corse : six.

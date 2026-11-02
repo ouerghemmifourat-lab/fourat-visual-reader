@@ -1,0 +1,7 @@
+A table with three columns and six rows: Year, Series A and Series B.
+
+twenty twenty-four has the largest Series A; twenty nineteen the smallest. twenty twenty-four, Series A: twenty-two. twenty nineteen: ten.
+
+twenty nineteen: Series A ten; Series B fourteen. twenty twenty: Series A twelve; Series B fifteen. twenty twenty-one: Series A sixteen; Series B fifteen.
+
+twenty twenty-two: Series A eighteen; Series B sixteen. twenty twenty-three: Series A twenty; Series B sixteen. twenty twenty-four: Series A twenty-two; Series B seventeen.

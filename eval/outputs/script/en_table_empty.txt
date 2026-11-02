@@ -1,0 +1,7 @@
+A table with four columns and five rows: Product, Price, Stock and Supplier.
+
+Drill has the largest Price; Hammer the smallest. Drill, Price: eighty-nine point nine euros. Hammer: twelve point five euros.
+
+Hammer: Price twelve point five euros; Stock forty; Supplier Acme. Saw: Price twenty-four euros; Stock —; Supplier Acme. Drill: Price eighty-nine point nine euros; Stock seven; Supplier no value.
+
+Level: Price fifteen euros; Stock zero; Supplier Bolt Co. Pliers: Price no value; Stock twenty-two; Supplier Bolt Co.

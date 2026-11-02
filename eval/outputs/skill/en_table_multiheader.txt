@@ -1,0 +1,11 @@
+A table with five columns and three rows, one row per region: units and revenue in thousands of euros, for two years. I will read it as two tables: twenty twenty-three, then twenty twenty-four. North is the largest in both years, and West grows the most.
+
+Twenty twenty-three.
+North: units one thousand two hundred; revenue four hundred eighty thousand euros.
+South: units nine hundred; revenue three hundred fifty thousand euros.
+West: units four hundred; revenue one hundred fifty thousand euros.
+
+Twenty twenty-four.
+North: units one thousand three hundred fifty; revenue five hundred sixty thousand euros.
+South: units eight hundred eighty; revenue three hundred forty thousand euros.
+West: units six hundred twenty; revenue two hundred forty thousand euros.

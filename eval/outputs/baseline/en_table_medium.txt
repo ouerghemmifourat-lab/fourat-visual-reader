@@ -1,0 +1,9 @@
+This table shows quarterly sales for eight products, in thousands of euros.
+Alpha: 120 in the first quarter, 135 in the second, 150 in the third, and 160 in the fourth.
+Beta: 80, 82, 79, and 85.
+Gamma: 200, 190, 180, and 170.
+Delta: 45, 50, 55, and 60.
+Epsilon: 310, 300, 320, and 330.
+Zeta: 15, 18, 20, and 22.
+Eta: 95, 100, 105, and 110.
+Theta: 60, 58, 61, and 59.

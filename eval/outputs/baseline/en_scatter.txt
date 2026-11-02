@@ -1,0 +1,4 @@
+This chart plots income against life expectancy for eight countries. In general, higher income goes with longer life.
+Nigeria has the lowest income, 5 thousand dollars, and the lowest life expectancy, 53 years. India has 7 thousand dollars and 70 years. Mexico has 20 thousand and 75 years. Chile has 25 thousand and 80 years.
+Japan has 42 thousand dollars and 84 years, the longest life expectancy. France has 45 thousand and 82 years.
+Two countries stand out. Norway has the highest income, 75 thousand dollars, with 83 years. The USA has 65 thousand dollars but only 77 years, lower than countries with much less income, like Chile.

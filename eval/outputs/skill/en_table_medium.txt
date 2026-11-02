@@ -1,0 +1,7 @@
+A table with five columns and eight rows, one row per product: Q1, Q2, Q3 and Q4 sales, in thousands of euros.
+
+Epsilon is the biggest seller in every quarter, and Zeta the smallest. Most products grow through the year, but Gamma falls.
+
+Epsilon: three hundred ten thousand euros in the first quarter, and three hundred thirty thousand in the fourth. Zeta: fifteen thousand in the first quarter, and twenty-two thousand in the fourth. Gamma: two hundred thousand in the first quarter, down to one hundred seventy thousand in the fourth.
+
+Ask for a product, a quarter, or a comparison for more.

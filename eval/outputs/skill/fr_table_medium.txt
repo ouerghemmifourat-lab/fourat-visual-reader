@@ -1,0 +1,7 @@
+Un tableau de cinq colonnes et huit lignes, une ligne par élève : maths, français, histoire et moyenne, en notes sur vingt.
+
+Chloé est en tête dans les trois matières, et Farid est le dernier de la classe.
+
+Chloé, moyenne : dix-sept. Farid, moyenne : huit virgule sept. Deux élèves sont sous la moyenne de dix : Farid et David, avec neuf virgule sept. En maths, la meilleure note est dix-huit, pour Chloé ; la plus basse est sept, pour Farid.
+
+Vous pouvez demander un élève, une matière ou une comparaison.

@@ -1,0 +1,4 @@
+Taux de chômage, en pourcentage, de 2018 à 2024, pour la France et l'Allemagne.
+En France, il baisse de 9 pour cent en 2018 à 7,3 en 2022 et 2023, puis remonte à 7,5 en 2024.
+En Allemagne, il reste bas, entre 3 et 3,8 pour cent : 3,4 en 2018, 3,1 en 2019, un pic à 3,8 en 2020, puis 3,6, 3,1, 3 en 2023, et 3,4 en 2024.
+L'écart reste donc important : en 2024, la France est à plus du double de l'Allemagne.

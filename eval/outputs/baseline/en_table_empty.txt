@@ -1,0 +1,6 @@
+This table lists five products with price, stock, and supplier.
+Hammer: 12 euros 50, 40 in stock, from Acme.
+Saw: 24 euros, stock not given, from Acme.
+Drill: 89 euros 90, 7 in stock, supplier not given.
+Level: 15 euros, 0 in stock, from Bolt Co.
+Pliers: price not given, 22 in stock, from Bolt Co.

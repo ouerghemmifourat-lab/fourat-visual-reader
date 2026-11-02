@@ -1,0 +1,5 @@
+Un tableau de cinq colonnes et huit lignes : Élève, Maths, Français, Histoire et Moyenne.
+
+Chloé a la plus grande valeur de Maths ; Farid la plus petite. Chloé, Maths : dix-huit. Farid : sept.
+
+Je peux lire ligne par ligne, parcourir une colonne, ou comparer deux lignes. Que souhaitez-vous ?

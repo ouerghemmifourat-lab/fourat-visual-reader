@@ -1,0 +1,6 @@
+Un nuage de points du prix en milliers d'euros en fonction de la surface en mètres carrés, huit points, un par appartement. Plus la surface est grande, plus le prix est élevé, avec une exception : l'appartement F.
+
+Le plus grand et le plus cher est G, cent mètres carrés pour six cent mille euros. Le plus petit et le moins cher est A, vingt-cinq mètres carrés pour cent quatre-vingt mille euros. F fait seulement trente mètres carrés, mais coûte trois cent dix mille euros, plus que B, qui fait quarante mètres carrés.
+
+Les autres, surface puis prix : B, quarante mètres carrés et deux cent soixante mille euros. C, cinquante-cinq et trois cent quarante mille.
+D, soixante-dix et quatre cent dix mille. E, quatre-vingt-cinq et cinq cent vingt mille. H, soixante et trois cent cinquante mille.

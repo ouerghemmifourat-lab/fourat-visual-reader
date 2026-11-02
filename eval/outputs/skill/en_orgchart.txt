@@ -1,0 +1,5 @@
+An org chart with three levels and nine positions, led by the CEO. The CEO has three direct reports: the CFO, the CTO and the COO.
+
+Under the CFO: accounting, three people; treasury, two. Under the CTO: development, twelve; operations, four. Under the COO: sales, twenty.
+
+The teams add up to forty-one people. Ask for one branch in more detail.

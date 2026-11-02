@@ -1,0 +1,138 @@
+{
+ "en_table_small": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_table_medium": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_table_large": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "en_table_multiheader": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_table_empty": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_bars_simple": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_bars_grouped": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_bars_negative": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_line_single": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "en_line_multi": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_pie": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_scatter": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_flowchart_loop": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_flowchart_merge": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_orgchart": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_sequence": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "en_image_only": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_table_small": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_table_medium": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_table_large": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_table_vides": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_barres": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_barres_groupees": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_courbe": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_courbe_deux_series": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_camembert": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_nuage": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_flux_boucle": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_flux_fusion": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_organigramme": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_sequence": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_carte_mentale": {
+  "A": "skill",
+  "B": "baseline"
+ },
+ "fr_image_seule": {
+  "A": "baseline",
+  "B": "skill"
+ },
+ "fr_interpretation": {
+  "A": "baseline",
+  "B": "skill"
+ }
+}

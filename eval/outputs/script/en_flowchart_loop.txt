@@ -1,0 +1,7 @@
+A flowchart with six steps and one decision, one entry point, one exit, from Order received to Delivered.
+
+Step one, Order received. Step two, Check stock. Decision: In stock? If yes, step three, Pack. If no, step four, Back-order. Step three, Pack.
+
+Step four, Back-order, then back to step two. Step five, Ship, then step six, Delivered.
+
+Shall I detail a step?

@@ -1,0 +1,3 @@
+Un graphique en barres des ventes par région, cinq barres, en millions d'euros. L'Île-de-France est nettement en tête, presque le double de la deuxième ; la Corse est très loin derrière.
+
+Île-de-France : cent vingt millions. Auvergne-Rhône-Alpes : soixante-cinq. Occitanie : quarante. Bretagne : trente. Corse : six, environ un vingtième de l'Île-de-France.

@@ -1,0 +1,5 @@
+A grouped bar chart of sales by country, three countries, two series: online and stores, in millions of euros. France sells mostly in stores. Spain is the only country where online is ahead.
+
+France, total forty-two: online twelve; stores thirty.
+Spain, total thirty-eight: online twenty; stores eighteen.
+Italy, total twenty-five: online ten; stores fifteen.

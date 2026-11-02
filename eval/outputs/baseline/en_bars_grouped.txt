@@ -1,0 +1,5 @@
+This chart compares online and store sales, in millions of euros, for three countries.
+France: 12 online and 30 in stores.
+Spain: 20 online and 18 in stores.
+Italy: 10 online and 15 in stores.
+Spain is the only country where online sales are higher than store sales.

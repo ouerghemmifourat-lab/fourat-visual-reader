@@ -1,0 +1,18 @@
+[
+ {
+  "id": "en_table_small",
+  "arm": "script",
+  "seconds": 37.5,
+  "words": 65,
+  "wpm": 104,
+  "file": "script_en_table_small.wav"
+ },
+ {
+  "id": "fr_table_small",
+  "arm": "script",
+  "seconds": 46.2,
+  "words": 76,
+  "wpm": 99,
+  "file": "script_fr_table_small.wav"
+ }
+]

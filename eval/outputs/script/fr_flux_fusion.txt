@@ -1,0 +1,7 @@
+Un diagramme de flux de six étapes et une décision, deux entrées, une sortie, de Commande web à Terminé.
+
+Étape un, Commande web. Étape deux, Commande téléphone. Étape trois, Valider la commande. Décision : Paiement accepté  ? Si oui, étape quatre, Préparer. Si non, étape cinq, Contacter le client.
+
+Étape quatre, Préparer, puis étape six, Terminé. Étape cinq, Contacter le client, puis retour à l'étape trois.
+
+Voulez-vous le détail d'une étape ?

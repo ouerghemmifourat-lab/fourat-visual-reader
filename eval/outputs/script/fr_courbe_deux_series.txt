@@ -1,0 +1,5 @@
+Un tableau de trois colonnes et sept lignes : Année, France et Allemagne. Valeurs en pour cent, intitulé "Taux de chômage".
+
+deux mille dix-huit a la plus grande valeur de France ; deux mille vingt-deux la plus petite. deux mille dix-huit, France : neuf pour cent. deux mille vingt-deux : sept virgule trois pour cent.
+
+Je peux lire ligne par ligne, parcourir une colonne, ou comparer deux lignes. Que souhaitez-vous ?

@@ -1,0 +1,7 @@
+A table with six columns and thirty-two rows, one row per store: store, city, staff, and three more columns: revenue in thousands of euros, margin in percent, and year opened.
+
+Nîmes stands out. It has the highest revenue and the largest staff. Dax has the lowest revenue.
+
+Nîmes: revenue nine hundred eighty thousand euros; staff fifty-two. Dax: revenue forty-one thousand euros; staff three. The highest margin is eighteen percent, shared by Arles and Cahors. The lowest is four percent, shared by Nantes and Tours.
+
+I can read the top five stores by revenue, one city, or one column. Ask for what you would like.

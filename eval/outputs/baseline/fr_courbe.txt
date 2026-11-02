@@ -1,0 +1,1 @@
+Températures moyennes à Lyon, mois par mois. Il fait 3,5 degrés en janvier, 4,5 en février, 8,2 en mars, 11,5 en avril, 15,8 en mai, et 19,6 en juin. Le maximum est en juillet, à 22,4 degrés, puis 22,1 en août. Ensuite, la température redescend : 18 en septembre, 13,2 en octobre, 7,5 en novembre, et 4,2 en décembre.

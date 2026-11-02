@@ -1,0 +1,7 @@
+Un tableau de quatre colonnes et cinq lignes : Produit, Prix, Stock et Fournisseur.
+
+Perceuse a la plus grande valeur de Prix ; Marteau la plus petite. Perceuse, Prix : quatre-vingt-neuf virgule neuf euros. Marteau : douze virgule cinq euros.
+
+Marteau : Prix douze virgule cinq euros ; Stock quarante ; Fournisseur Acme. Scie : Prix vingt-quatre euros ; Stock — ; Fournisseur Acme. Perceuse : Prix quatre-vingt-neuf virgule neuf euros ; Stock sept ; Fournisseur vide.
+
+Niveau : Prix quinze euros ; Stock zéro ; Fournisseur Bolt. Pince : Prix vide ; Stock vingt-deux ; Fournisseur Bolt.

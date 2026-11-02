@@ -1,0 +1,3 @@
+Une courbe de Température de janvier à décembre, douze points, en degrés Celsius, intitulé "Températures moyennes à Lyon". Température monte de trois virgule cinq à quatre virgule deux degrés Celsius. Le point bas est trois virgule cinq degrés Celsius en janvier. Le sommet est vingt-deux virgule quatre degrés Celsius en juillet.
+
+Je continue ?

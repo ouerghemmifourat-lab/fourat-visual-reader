@@ -1,0 +1,5 @@
+This table compares units sold and revenue by region, for 2023 and 2024. Revenue is in thousands of euros.
+North: in 2023, 1,200 units and 480 revenue. In 2024, 1,350 units and 560 revenue.
+South: in 2023, 900 units and 350 revenue. In 2024, 880 units and 340 revenue.
+West: in 2023, 400 units and 150 revenue. In 2024, 620 units and 240 revenue.
+So North and West grew, while South dipped slightly.

@@ -1,0 +1,5 @@
+Ce tableau décrit trente communes, avec leur département, leur nombre d'habitants, leur altitude et leur superficie. Voici les points principaux.
+La commune la plus peuplée est Aix, avec 145 000 habitants, suivie de Lens, avec environ 131 000, et de Vichy, avec environ 124 000. La moins peuplée est Figeac, avec 7 900 habitants.
+La plus haute est Gap, à 1 050 mètres d'altitude. La plus basse est Calais, à 3 mètres.
+La plus grande par la superficie est Mende, avec 90 kilomètres carrés. La plus petite est Bastia, avec 11 kilomètres carrés, comme Vichy.
+Je peux lire une commune en particulier si vous le souhaitez.

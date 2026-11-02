@@ -1,0 +1,7 @@
+Un diagramme de flux de sept étapes et deux décisions, une entrée, une sortie, de Demande reçue à Fin.
+
+Étape un, Demande reçue. Étape deux, Vérifier le dossier. Décision : Dossier complet  ? Si oui, étape trois, Instruire. Si non, étape quatre, Demander les pièces. Étape trois, Instruire.
+
+Étape quatre, Demander les pièces, puis retour à l'étape deux. Décision : Accord  ? Si oui, étape cinq, Notifier l'accord. Si non, étape six, Notifier le refus. Étape cinq, Notifier l'accord, puis étape sept, Fin. Étape six, Notifier le refus, puis étape sept, Fin.
+
+Voulez-vous le détail d'une étape ?

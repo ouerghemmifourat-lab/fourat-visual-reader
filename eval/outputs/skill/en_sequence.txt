@@ -1,0 +1,5 @@
+A sequence diagram with four participants: user, app, server and database; six messages. A user logs in: the app asks the server, which checks the database.
+
+From the user to the app: enter credentials. From the app to the server: verify. From the server to the database: read user.
+
+Back from the database to the server: record. Back from the server to the app: token. Back from the app to the user: logged in.

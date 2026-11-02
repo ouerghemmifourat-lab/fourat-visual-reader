@@ -1,0 +1,7 @@
+A line chart of annual revenue from twenty fifteen to twenty twenty-four, one point per year, in millions of euros.
+
+Revenue rises from ten to twenty-five million, with a dip in twenty nineteen and twenty twenty before it recovers. That is up about one hundred fifty percent over the period.
+
+The low point is eleven million in twenty twenty. The peak is the last year, twenty-five.
+
+In segments: from twenty fifteen to twenty eighteen, rising from ten to sixteen. Twenty nineteen and twenty twenty, falling to fifteen, then eleven. From twenty twenty-one to twenty twenty-four, rising from seventeen to twenty-five.

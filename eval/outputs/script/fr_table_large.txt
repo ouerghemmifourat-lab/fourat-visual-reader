@@ -1,0 +1,5 @@
+Un tableau de cinq colonnes et trente lignes : Commune, Département, Habitants, Altitude et Superficie.
+
+Arles a la plus grande valeur de Département ; Royan la plus petite. Arles, Département : quatre-vingt-neuf. Royan : un.
+
+Je peux lire ligne par ligne, parcourir une colonne, ou comparer deux lignes. Que souhaitez-vous ?

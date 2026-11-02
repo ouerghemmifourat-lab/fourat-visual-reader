@@ -1,0 +1,7 @@
+A flowchart with six steps and one decision, two entry points, one exit, from Web order to Done.
+
+Step one, Web order. Step two, Phone order. Step three, Validate order. Decision: Payment OK? If yes, step four, Fulfil. If no, step five, Contact customer.
+
+Step four, Fulfil, then step six, Done. Step five, Contact customer, then back to step three.
+
+Shall I detail a step?

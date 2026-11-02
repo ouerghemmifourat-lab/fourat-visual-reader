@@ -1,0 +1,1 @@
+This is a login sequence. The user enters credentials in the app. The app asks the server to verify them. The server reads the user from the database. The database returns the record to the server. The server sends a token back to the app. And the app tells the user they are logged in.

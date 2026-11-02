@@ -1,0 +1,7 @@
+Un tableau de trois colonnes et quatre lignes, une ligne par ville : population en millions, et superficie en kilomètres carrés. Toulouse est la plus peuplée et la plus étendue ; Lille est la plus petite.
+
+Bordeaux : population zéro virgule vingt-six million ; superficie quarante-neuf kilomètres carrés.
+Nantes : zéro virgule trente-deux million ; soixante-cinq kilomètres carrés.
+Lille : zéro virgule vingt-quatre million ; trente-cinq kilomètres carrés.
+
+Toulouse : zéro virgule cinq million ; cent dix-huit kilomètres carrés.

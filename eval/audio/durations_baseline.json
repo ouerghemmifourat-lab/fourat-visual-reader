@@ -1,0 +1,18 @@
+[
+ {
+  "id": "en_table_small",
+  "arm": "baseline",
+  "seconds": 20.0,
+  "words": 39,
+  "wpm": 117,
+  "file": "baseline_en_table_small.wav"
+ },
+ {
+  "id": "fr_table_small",
+  "arm": "baseline",
+  "seconds": 24.2,
+  "words": 38,
+  "wpm": 94,
+  "file": "baseline_fr_table_small.wav"
+ }
+]

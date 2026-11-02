@@ -1,0 +1,6 @@
+Ce graphique compare le nombre d'hommes et de femmes par tranche d'âge, en milliers.
+De 0 à 19 ans : 820 hommes et 790 femmes.
+De 20 à 39 ans : 760 hommes et 770 femmes.
+De 40 à 59 ans : 800 hommes et 830 femmes.
+À 60 ans et plus : 650 hommes et 810 femmes.
+Les hommes sont plus nombreux chez les plus jeunes, puis les femmes sont plus nombreuses à partir de 20 ans, avec un écart marqué après 60 ans.

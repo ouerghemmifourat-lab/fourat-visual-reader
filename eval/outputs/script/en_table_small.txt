@@ -1,0 +1,5 @@
+A table with three columns and three rows: City, Population and Area.
+
+Paris has the largest Population; Lyon the smallest. Paris, Population: two point one million. Lyon: zero point five million.
+
+Paris: Population two point one million; Area one hundred five square kilometres. Lyon: Population zero point five million; Area forty-eight square kilometres. Marseille: Population zero point nine million; Area two hundred forty-one square kilometres.

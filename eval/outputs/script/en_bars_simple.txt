@@ -1,0 +1,5 @@
+A bar chart of Sales by Country, four bars, in million euros, titled "Sales by country, twenty twenty-four". France is highest, Spain close behind, Portugal far lower.
+
+France: forty-two million euros. Spain: thirty-eight. Italy: twenty-five.
+
+Portugal: nine million euros, about a fifth of France.

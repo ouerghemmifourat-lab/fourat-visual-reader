@@ -1,0 +1,50 @@
+[
+ {
+  "id": "en_table_small",
+  "arm": "skill",
+  "seconds": 31.2,
+  "words": 61,
+  "wpm": 117,
+  "file": "skill_en_table_small.wav"
+ },
+ {
+  "id": "en_bars_simple",
+  "arm": "skill",
+  "seconds": 24.1,
+  "words": 41,
+  "wpm": 102,
+  "file": "skill_en_bars_simple.wav"
+ },
+ {
+  "id": "en_flowchart_loop",
+  "arm": "skill",
+  "seconds": 37.5,
+  "words": 73,
+  "wpm": 117,
+  "file": "skill_en_flowchart_loop.wav"
+ },
+ {
+  "id": "fr_table_small",
+  "arm": "skill",
+  "seconds": 35.8,
+  "words": 69,
+  "wpm": 116,
+  "file": "skill_fr_table_small.wav"
+ },
+ {
+  "id": "fr_courbe",
+  "arm": "skill",
+  "seconds": 36.7,
+  "words": 85,
+  "wpm": 139,
+  "file": "skill_fr_courbe.wav"
+ },
+ {
+  "id": "fr_flux_boucle",
+  "arm": "skill",
+  "seconds": 51.9,
+  "words": 101,
+  "wpm": 117,
+  "file": "skill_fr_flux_boucle.wav"
+ }
+]

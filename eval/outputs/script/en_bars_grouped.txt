@@ -1,0 +1,5 @@
+A table with three columns and three rows: Country, Online and Stores. Values in million euros.
+
+Spain has the largest Online; Italy the smallest. Spain, Online: twenty million euros. Italy: ten million euros.
+
+France: Online twelve million euros; Stores thirty million euros. Spain: Online twenty million euros; Stores eighteen million euros. Italy: Online ten million euros; Stores fifteen million euros.

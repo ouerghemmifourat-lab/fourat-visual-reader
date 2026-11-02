@@ -1,0 +1,1 @@
+Ce processus traite les commandes de deux origines : les commandes web et les commandes par téléphone. Les deux arrivent à la même première étape, la validation de la commande. Ensuite, on regarde si le paiement est accepté. Si oui, on prépare la commande, et c'est terminé. Si non, on contacte le client, puis la commande retourne à la validation.

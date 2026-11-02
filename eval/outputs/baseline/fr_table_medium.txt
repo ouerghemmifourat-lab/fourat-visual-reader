@@ -1,0 +1,10 @@
+Ce tableau donne les notes de huit élèves en maths, français et histoire, avec leur moyenne.
+Amina : 15, 12 et 14, soit une moyenne de 13,7.
+Bastien : 9, 14 et 11, moyenne de 11,3.
+Chloé : 18, 16 et 17, moyenne de 17.
+David : 11, 8 et 10, moyenne de 9,7.
+Emma : 13, 13 et 13, moyenne de 13.
+Farid : 7, 10 et 9, moyenne de 8,7.
+Gaëlle : 16, 17 et 15, moyenne de 16.
+Hugo : 12, 11 et 14, moyenne de 12,3.
+Chloé a la meilleure moyenne, Farid la plus basse.
